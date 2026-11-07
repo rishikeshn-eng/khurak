@@ -1,0 +1,753 @@
+{"style": 0, "text": "Doctor sorry to bother you late, but my head is pounding. Can I take [MED1] with paracetamol? Need fast relief, the pain is getting worse."}
+{"style": 0, "text": "Hi Dr, I ran out of [MED1] today. The pharmacy only has [MED2] plus some generic ibuprofen. Is that safe to switch?"}
+{"style": 0, "text": "Doc my sugar level went up after taking [MED1] this morning... is that normal or should I stop it?"}
+{"style": 0, "text": "Hello doctor, my husband took [MED1] for his cold and now he feels super dizzy. Should we go to ER?"}
+{"style": 0, "text": "Dr is [MED1] care safe for kids? My son has a mild fever and I lost the prescription sheet."}
+{"style": 0, "text": "Good morning doc. I feel active during the day but at night after [MED1], my stomach hurts really bad."}
+{"style": 0, "text": "Doctor please help, I took [MED1] instead of [MED2] by mistake! Will I be okay???"}
+{"style": 0, "text": "Hi doc, [MED1] is too expensive at my local pharmacy. Is there a cheaper fast acting alternative?"}
+{"style": 0, "text": "Dr, my chest feels heavy after taking [MED1]. Could it be a side effect?"}
+{"style": 0, "text": "Sorry doctor, quick question... do I take [MED1] before or after food? My stomach is sensitive."}
+{"style": 0, "text": "Hey doc, I missed my dose of [MED1] this afternoon. Should I double up tonight with [MED2]?"}
+{"style": 0, "text": "Doctor the rash on my arm got bigger after 2 days on [MED1]. Should I stop taking it?"}
+{"style": 0, "text": "Hi Dr. My mother has high blood pressure and took [MED1] for her bad cold. Is that bad?"}
+{"style": 0, "text": "Doc, [MED1] isn't helping with the back pain at all. Can I add [MED2] or aspirin?"}
+{"style": 0, "text": "Dr sorry to text on weekend. Took [MED1] 1 hour ago and now I feel nauseous."}
+{"style": 0, "text": "Hello doctor, is [MED1] safe during early pregnancy? I took one pill before checking!"}
+{"style": 0, "text": "Hi Doc, pharmacy said [MED1] is out of stock everywhere. Can I use [MED2] fast instead?"}
+{"style": 0, "text": "Doctor I'm really anxious, my heart is racing since starting [MED1] active formula yesterday."}
+{"style": 0, "text": "Doc can I give my dad [MED1] along with his regular sugar meds?"}
+{"style": 0, "text": "Hi doctor, I gave my daughter [MED1] for rest and fever but she vomited it out right away. Should I repeat dose?"}
+{"style": 0, "text": "Dr, is it okay to drink alcohol tonight if I took [MED1] this morning?"}
+{"style": 0, "text": "Hello doc, [MED1] plus [MED2] made my throat feel weird and itchy. Am I allergic?"}
+{"style": 0, "text": "Doc my knee pain is back. Should I restart [MED1] or come in for a visit?"}
+{"style": 0, "text": "Hi Dr, I took [MED1] 500mg instead of 250mg by mistake. Feeling panicked!"}
+{"style": 0, "text": "Doctor, how many days should I continue taking [MED1]? The box doesn't say."}
+{"style": 0, "text": "Hey doc, [MED1] gives me severe dry mouth and headache. Normal?"}
+{"style": 0, "text": "Dr, can [MED1] cause blood in stool? Noticed it today, very worried."}
+{"style": 0, "text": "Hi doctor, my chemist suggested [MED1] fast care instead of my usual prescription. Is that okay?"}
+{"style": 0, "text": "Doc, I feel so tired and sleepy after taking [MED1]. Can I take it at bedtime instead?"}
+{"style": 0, "text": "Doctor please reply when free. Is [MED1] safe to take with amoxicillin for my severe cold?"}
+{"style": 0, "text": "Hi Dr, my hands are shaking since I started [MED1] this week. Is this dangerous?"}
+{"style": 0, "text": "Doc, can I crush [MED1] tablet? Grandma cannot swallow whole pills."}
+{"style": 0, "text": "Hello doctor, I took [MED1] for pain but now my feet are swollen. What should I do?"}
+{"style": 0, "text": "Dr, pharmacy gave me [MED1] active instead of [MED2]. Are they the same thing?"}
+{"style": 0, "text": "Hi doc, feeling very weak after 3 days of [MED1]. Should I get blood test done?"}
+{"style": 0, "text": "Doctor, my child ate one tablet of [MED1] by mistake! He seems fine but I'm terrified."}
+{"style": 0, "text": "Doc, does [MED1] interact with my daily iron supplements?"}
+{"style": 0, "text": "Hi Dr, I felt great on [MED1] but ran out and symptom came back fast. Need refill."}
+{"style": 0, "text": "Doctor, is [MED1] life syrup safe for my 4 year old who has a cough and cold?"}
+{"style": 0, "text": "Dr, I took [MED1] and [MED2] together by accident. My stomach feels on fire!"}
+{"style": 1, "text": "Doctor saab [MED1] khane ke baad sar dard ho raha hai... is it normal? Ya [MED2] le lu?"}
+{"style": 1, "text": "Hi doc, [MED1] tablet 500mg available nahi hai medical shop pe. Kya main [MED2] le sakta hu fast relief ke liye?"}
+{"style": 1, "text": "Sir subah [MED1] li thi par fever abhi bhi hai. Kya [MED2] syrup baby ko de du?"}
+{"style": 1, "text": "Doc [MED1] ka dose miss ho gaya. Abhi le lu kya active feel nahi ho raha?"}
+{"style": 1, "text": "Good morning sir, [MED1] 10mg bohot mehnga hai market me. Any alternative plus cheap medicine?"}
+{"style": 1, "text": "Hello doctor, mummy ko sugar level high hai and [MED1] khatam ho gaya. Kya [MED2] continue kare?"}
+{"style": 1, "text": "Doctor kya [MED1] syrup khane se constipation hota hai? Care clinic se liya tha kal."}
+{"style": 1, "text": "Sir [MED1] tablet din me 2 baar leni hai ya 3 baar? Fast answer kar do please."}
+{"style": 1, "text": "Doc [MED1] khane ke baad loose motion ho rahe hai. [MED2] stop kar du kya?"}
+{"style": 1, "text": "Hi sir, [MED1] tablet khali pet leni hai ya khana khane ke baad?"}
+{"style": 1, "text": "Dr saab chest pain ke liye [MED1] di thi, par [MED2] se rest milega kya?"}
+{"style": 1, "text": "Hello doc, [MED1] aur paracetamol ek sath le sakte hai cold aur fever ke liye?"}
+{"style": 1, "text": "Sir [MED1] ointment lagane ke baad skin red ho gayi hai. Is it side effect?"}
+{"style": 1, "text": "Doc kal raat ko [MED1] lena bhool gaya tha. Abhi double dose le lu kya?"}
+{"style": 1, "text": "Sir, [MED1] syrup ka taste bohot kharab hai, bacha nahi peera. Can I give [MED2] instead?"}
+{"style": 1, "text": "Good evening doc, [MED1] tablet khane ke baad dizziness lag raha hai. Life me pehli baar aisi acidity hui hai."}
+{"style": 1, "text": "Sir [MED1] capsule morning me lena hai aur [MED2] night me? Confused hu chart dekh ke."}
+{"style": 1, "text": "Doc leg pain hai bohot. Kya [MED1] plus ibuprofen le sakta hu tonight?"}
+{"style": 1, "text": "Hello sir, [MED1] ka course full 5 days karna zaroori hai kya? Ab better feel kar raha hu."}
+{"style": 1, "text": "Sir medical store wahi [MED1] nahi de raha, bol raha substitute me [MED2] le lo. Sahi hai kya?"}
+{"style": 1, "text": "Doc [MED1] lene se neend bohot aati hai, office work nahi ho raha fast."}
+{"style": 1, "text": "Doctor saab sugar patient ke liye [MED1] safe hai na? Meri mummy active life jee rahi hai par thoda pain hai."}
+{"style": 1, "text": "Hi doc, [MED1] drops kitne drops daalne hai ear me? 2 ya 3?"}
+{"style": 1, "text": "Sir cough bohot hai nighttime pe. [MED1] syrup se rest nahi mila. [MED2] try karu?"}
+{"style": 1, "text": "Good morning doc, blood pressure ke liye [MED1] lifelong leni padegi kya?"}
+{"style": 1, "text": "Hello sir, stomach pain severe hai, [MED1] lene ke 1 hour baad bhi relief nahi aaya. [MED2] du?"}
+{"style": 1, "text": "Doc [MED1] 50mg me nausea feeling aati hai, can you prescribe something for care?"}
+{"style": 1, "text": "Sir child age 5 years ko [MED1] kitna ml dena hai for cold and fever?"}
+{"style": 1, "text": "Doctor, [MED1] gel knee pain pe fast kaam karega kya? Ya oral tablet du?"}
+{"style": 1, "text": "Hi doctor, [MED1] and [MED2] dono medicine mix karke le sakte hai kya?"}
+{"style": 1, "text": "Doc mere paas purana prescription hai [MED1] ka, same follow karu for cold?"}
+{"style": 1, "text": "Sir [MED1] tablet me lactose hai kya? Allergy test me plus response aaya tha."}
+{"style": 1, "text": "Hello doc, pharmacy me [MED1] strip price 200 rs bol rahe hai. Is [MED2] same generic?"}
+{"style": 1, "text": "Doctor saab acidity and gas ke liye [MED1] empty stomach lena tha kya?"}
+{"style": 1, "text": "Doc, [MED1] lene ke baad vomiting hui full dose nikal gaya. Phir se du kya [MED2]?"}
+{"style": 1, "text": "Sir back pain me relief nahi mil raha. [MED1] active ingredient paracetamol hi hai na?"}
+{"style": 1, "text": "Hi sir, [MED1] eye drops khulne ke baad 1 month tak use kar sakte hai?"}
+{"style": 1, "text": "Doctor [MED1] syp ki expiry next month hai, kya abhi 10 days ke liye safe hai?"}
+{"style": 1, "text": "Doc [MED1] 250mg capsule water ke sath lena hai ya milk ke sath?"}
+{"style": 1, "text": "Sir, [MED1] le raha hu 3 din se. Ab skin rashes ho gaye hai body pe. Should I stop [MED2] too?"}
+{"style": 2, "text": "डॉक्टर साहब, क्या मैं [MED1] को खाली पेट ले सकता हूँ? मुझे एसिडिटी लग रही है।"}
+{"style": 2, "text": "कल रात से बुखार कम नहीं हो रहा। [MED1] 500mg ली थी, क्या अब [MED2] भी ले लूँ?"}
+{"style": 2, "text": "सर [MED1] लेने के बाद बहुत चक्कर आ रहे हैं। क्या यह नॉर्मल है या दवाई बदलनी पड़ेगी?"}
+{"style": 2, "text": "मेडिकल स्टोर वाले के पास [MED1] नहीं थी, उसने [MED2] दे दी। क्या दोनों सेम हैं?"}
+{"style": 2, "text": "क्या [MED1] के साथ paracetamol ले सकते हैं? सिरदर्द बहुत तेज है।"}
+{"style": 2, "text": "[MED1] का रेट बहुत बढ़ गया है, कोई सस्ती generic दवा बताइए न।"}
+{"style": 2, "text": "डॉक्टर जी, मम्मी की [MED1] की खुराक रात को देनी है या सुबह? मैं भूल गया।"}
+{"style": 2, "text": "[MED1] लेने से स्किन पर लाल चकत्ते हो गए हैं। तुरंत बताइए क्या करूँ?"}
+{"style": 2, "text": "मुझे बहुत तेज cold और pain है, [MED1] से आराम मिलेगा या [MED2] लूँ?"}
+{"style": 2, "text": "[MED1] टैबलेट खाने के कितने देर बाद असर करती है? 2 घंटे हो गए।"}
+{"style": 2, "text": "नमस्ते सर, क्या [MED1] को दूध के साथ लेना सही रहेगा?"}
+{"style": 2, "text": "[MED1] सिरप बच्चे को दिन में कितनी बार देना है? बोतल पर साफ नहीं लिखा।"}
+{"style": 2, "text": "डॉक्टर साहब मेरी sugar बढ़ी हुई है, क्या [MED1] से कोई साइड इफेक्ट तो नहीं होगा?"}
+{"style": 2, "text": "[MED1] 10mg की जगह केमिस्ट ने [MED2] 20mg दे दी है, क्या आधी गोली खा लूँ?"}
+{"style": 2, "text": "पिछले हफ्ते से [MED1] चालू की है पर कोई फर्क नहीं पड़ रहा।"}
+{"style": 2, "text": "[MED1] लेने के बाद उल्टी जैसा मन होता है। fast राहत के लिए क्या करें?"}
+{"style": 2, "text": "क्या गर्भवती महिला [MED1] ले सकती है? इमरजेंसी है प्लीज रिप्लाई करें।"}
+{"style": 2, "text": "[MED1] का कोर्स 5 दिन का था, अब दर्द नहीं है तो क्या बंद कर दूँ?"}
+{"style": 2, "text": "[MED1] और [MED2] दोनों एक साथ खाना सही है क्या?"}
+{"style": 2, "text": "केमिस्ट कह रहा है कि [MED1] अब बैन हो गई है और [MED2] ले लो। क्या यह सच है?"}
+{"style": 2, "text": "सर मुझे पेट में बहुत मरोड़ हो रही है, क्या [MED1] काम करेगी?"}
+{"style": 2, "text": "[MED1] कैप्सूल को तोड़कर पानी में मिलाकर पी सकते हैं क्या? निगलने में दिक्कत है।"}
+{"style": 2, "text": "[MED1] Plus नाम की दवा नहीं मिल रही, क्या सिर्फ [MED1] से काम चल जाएगा?"}
+{"style": 2, "text": "डॉक्टर साहब [MED1] लेने के बाद नींद बहुत आती है, दिन में गाड़ी चलाना मुश्किल हो जाता है।"}
+{"style": 2, "text": "क्या [MED1] का असर बीपी पर पड़ता है? मेरा बीपी आज थोड़ा हाई आया है।"}
+{"style": 2, "text": "[MED1] दवाई खाने के पहले लेनी है या बाद में? पर्चे में लिखा समझ नहीं आ रहा।"}
+{"style": 2, "text": "सर [MED1] बंद करने के बाद फिर से बुखार आने लगा है। [MED2] शुरू करूँ क्या?"}
+{"style": 2, "text": "[MED1] ऑइंटमेंट को दिन में कितनी बार लगाना है? जख्म पर जलन हो रही है।"}
+{"style": 2, "text": "Care क्लीनिक से [MED1] मिली थी, क्या इसकी जगह ibuprofen ले सकते हैं?"}
+{"style": 2, "text": "[MED1] की एक्सपायरी डेट अगले महीने की है, क्या अभी इस्तेमाल कर सकते हैं?"}
+{"style": 2, "text": "डॉक्टर जी [MED1] 500 एमजी दिन में तीन बार लेने को कहा था, पर पेट खराब हो गया है।"}
+{"style": 2, "text": "मुझे श्वास लेने में तकलीफ है, [MED1] इनहेलर के कितने पफ लेने चाहिए?"}
+{"style": 2, "text": "[MED1] Active ले रहा हूँ 15 दिन से, आराम तो है पर दाने निकल आए हैं।"}
+{"style": 2, "text": "क्या अल्कोहल पीने के बाद [MED1] ले सकते हैं?"}
+{"style": 2, "text": "[MED1] ड्रॉप्स बच्चे की आंख में दिन में कितनी बार डालनी है?"}
+{"style": 2, "text": "[MED1] लेने से पेशाब का रंग पीला आ रहा है, क्या यह [MED2] की वजह से है?"}
+{"style": 2, "text": "[MED1] लेने के बाद rest करना जरूरी है क्या? मेरी नाइट शिफ्ट है।"}
+{"style": 2, "text": "डॉक्टर सर, [MED1] का पत्ता खो गया है, क्या आप फिर से प्रिस्क्रिप्शन भेज सकते हैं?"}
+{"style": 2, "text": "क्या [MED1] के साथ मल्टीविटामिन [MED2] लेना सुरक्षित है?"}
+{"style": 2, "text": "[MED1] खाने के बाद सीने में जलन हो रही है, दवा बदल दीजिए।"}
+{"style": 3, "text": "Bhaiya [MED1] 500mg strip hai kya? Urgent chahiye tha, fever ho raha hai mummy ko."}
+{"style": 3, "text": "Please send 2 strips of [MED1] and 1 bottle of [MED2] cough syrup to house number 42. Fast delivery please."}
+{"style": 3, "text": "Uncle ji, my sugar report came high today. Doctor prescribed [MED1] 50mg. Do you have it in stock?"}
+{"style": 3, "text": "Hi, send 1 strip [MED1] for stomach pain. Also do u have [MED2] plus gel?"}
+{"style": 3, "text": "Bhaiya [MED1] ka substitute chalega kya? Same paracetamol salt wala. Aapke paas original brand hai ki nahi?"}
+{"style": 3, "text": "Good morning, need [MED1] tablet 10mg - 3 strips. Kitna discount milega?"}
+{"style": 3, "text": "Hello, [MED1] drop for baby available hai? 5ml size wala chahiye."}
+{"style": 3, "text": "Can you deliver [MED1] and [MED2] by 6 PM today? Bill GPay kardunga."}
+{"style": 3, "text": "Bhaiya [MED1] se thoda drowsiness lagta hai kya? Doctor ne raat ko lene bola hai. Send 1 strip please."}
+{"style": 3, "text": "Urgent! Need 1 box [MED1] 650mg. Very bad headache and body pain. Please send active boy for delivery fast."}
+{"style": 3, "text": "Hi, photo of prescription attached. Please send [MED1] 20mg and [MED2] cream. Address same as last time."}
+{"style": 3, "text": "Uncle [MED1] tablet fast relief wala stock me hai? Tooth pain bohot zyaada ho raha hai."}
+{"style": 3, "text": "Bhaiya [MED1] 100ml syrup and 1 strip [MED2] bhej do home delivery. Total Kitna hua?"}
+{"style": 3, "text": "Sir, do you have [MED1] for BP? Papa ki regular medicine hai, finish ho gayi aaj."}
+{"style": 3, "text": "Hello, sending prescription for [MED1] and [MED2]. Please tell total cost first, then deliver."}
+{"style": 3, "text": "Bhaiya ek strip [MED1] bhej do. Cold and flu ke liye chahiye. Cash on delivery."}
+{"style": 3, "text": "Hi, [MED1] gel available hai joint pain ke liye? Is there any extra discount on 3 tubes?"}
+{"style": 3, "text": "Please send 1 pack [MED1] 5mg. Is it safe to take after food? Doctor instructions cleared missing."}
+{"style": 3, "text": "Bhaiya [MED1] kitne ka padega? Box price kya hai?"}
+{"style": 3, "text": "Urgent delivery needed! 2 strips [MED1] 10mg and [MED2] eye drops. Delivery charge kitna hai?"}
+{"style": 3, "text": "Uncle [MED1] tablet khane se stomach upset ho raha hai, alternative generic paracetamol hai kya aapke paas?"}
+{"style": 3, "text": "Send [MED1] 500mg - 2 strips, [MED2] vitamin c - 1 bottle. Care center patient needs it urgently."}
+{"style": 3, "text": "Good evening bhaiya, [MED1] skin ointment stock mein hai? Old price pe milega kya?"}
+{"style": 3, "text": "Need [MED1] syrup 200ml for dry cough. Please send someone fast, child has severe cough since night."}
+{"style": 3, "text": "Hi, is [MED1] available today? Shop closed text aaya tha subah."}
+{"style": 3, "text": "Bhaiya [MED1] 25mg - 5 strips bhej do. Regular prescription hai papa ka. Bill WhatsApp kar dena."}
+{"style": 3, "text": "Hello chemist uncle, please send [MED1] capsule and [MED2] fast action pain gel to B-12 flat."}
+{"style": 3, "text": "Bhaiya [MED1] strip pe expiry date check karke bhejna please. Last time fast delivery mein expired mila tha."}
+{"style": 3, "text": "Hi bhaiya, send [MED1] 40mg (1 strip). Also do you have rest and sleep supplements?"}
+{"style": 3, "text": "Uncle ji [MED1] plus tablet ka 1 strip urgent chahiye, sugar check machine lancets bhi bhej dena saath mein."}
+{"style": 3, "text": "Urgent send [MED1] 100mg injection vial. Doctor is waiting at home. Fast please!"}
+{"style": 3, "text": "Bhaiya [MED1] ka 10 strip pack ka kya rate hai? Whole sale discount doge kya?"}
+{"style": 3, "text": "Hello, 1 strip [MED1] and 1 tube [MED2] antiseptic cream bhej do. Paytm scanner bhej dena bill ke saath."}
+{"style": 3, "text": "Hi, [MED1] gargle solution 100ml available? Severe throat infection cold se ho gaya hai."}
+{"style": 3, "text": "Bhaiya [MED1] 10mg empty foil bhej raha hu photo mein. Yehi waali tablet 2 strips bhej do."}
+{"style": 3, "text": "Uncle [MED1] inhaler and [MED2] respiratory respules available hai shop pe? Delivery boy se bhejwa do."}
+{"style": 3, "text": "Hi, please deliver [MED1] daily health care multivitamin 30 capsules pack."}
+{"style": 3, "text": "Bhaiya [MED1] 500mg 1 strip + [MED2] antacid gel 200ml. Total bill amount kitna hua PayTM karne ke liye?"}
+{"style": 3, "text": "Sir [MED1] strip price kitna hai? 15 tablets wala strip chahiye urgently."}
+{"style": 3, "text": "Hello, send [MED1] tablet for acidity and [MED2] for headache. Address: 302 Active Heights."}
+{"style": 4, "text": "Tab. [MED1] 500mg 1-0-1 p.c. x 5 days. For fever and body pain. Take plenty of rest."}
+{"style": 4, "text": "Cap. [MED1] 20mg 1-0-0 a.c. (before breakfast) x 14 days. Syp. [MED2] 2 tsp b.i.d. p.c."}
+{"style": 4, "text": "Tab. [MED1] Plus 1-0-1 x 3 days. If mild dizziness occurs, drink extra fluids. Avoid cold water."}
+{"style": 4, "text": "Syp. [MED1] 10ml t.i.d. x 7 days for productive cough. Cap. [MED2] 500mg 1-0-1 p.c."}
+{"style": 4, "text": "Tab. [MED1] Active 50mg 0-0-1 h.s. x 1 month. Monitor blood pressure weekly."}
+{"style": 4, "text": "Inj. [MED1] IM stat. Follow with Tab. [MED2] 1-0-1 p.c. x 5 days for severe back pain."}
+{"style": 4, "text": "Tab. [MED1] 650mg 1-1-1 SOS for high fever (paracetamol). Do not exceed 4 tabs daily."}
+{"style": 4, "text": "Cap. [MED1] Care 100mg 1-0-1 a.c. x 10 days. Syp. [MED2] 5ml 0-0-1 bedtime for acidity."}
+{"style": 4, "text": "Tab. [MED1] 1-0-0 a.c. for sugar control. Tab. [MED2] Fast 0-0-1 p.c. x 30 days. Maintain active life."}
+{"style": 4, "text": "Eye Drops [MED1] 1 drop in right eye q.i.d. x 5 days. Wash hands before use."}
+{"style": 4, "text": "Oint. [MED1] Apply thin layer b.i.d. on skin rash x 7 days. Keep area dry and clean."}
+{"style": 4, "text": "Tab. [MED1] Ultra 1-0-1 p.c. x 5 days. Avoid driving if feeling sleepy. Rest prescribed."}
+{"style": 4, "text": "Cap. [MED1] 250mg 1-1-1 p.c. x 7 days (amoxicillin). Complete full course even if pain stops."}
+{"style": 4, "text": "Syp. [MED1] 5ml b.i.d. for severe cold & running nose x 5 days. Ensure good rest."}
+{"style": 4, "text": "Tab. [MED1] Max 10mg 0-0-1 h.s. x 15 days. Tab. [MED2] 1-0-0 a.c. Check lipid profile after 1 month."}
+{"style": 4, "text": "Tab. [MED1] 40mg 1-0-0 a.c. x 5 days for acute stomach relief. Take early morning with water."}
+{"style": 4, "text": "Cap. [MED1] 1-0-1 x 5 days. Syp. [MED2] Relief 10ml t.i.d. p.c. for chest tightness."}
+{"style": 4, "text": "Tab. [MED1] 10mg 0-0-1 h.s. for allergy (cetirizine). Dry mouth expected. Drink fast glass of water."}
+{"style": 4, "text": "Tab. [MED1] 1-0-1 p.c. x 3 days. Discontinue if abdominal pain or diarrhea develops."}
+{"style": 4, "text": "Cap. [MED1] 500mg 1-0-0 a.c. x 10 days. Generic option available at pharmacy if [MED1] out of stock."}
+{"style": 4, "text": "Syp. [MED1] 2 tsp 1-1-1 p.c. x 5 days. Tab. [MED2] 0-1-0 SOS for sudden migraine pain."}
+{"style": 4, "text": "Tab. [MED1] 0.5mg 1-0-1 x 7 days. Do not stop abruptly. Review in OPD next Monday."}
+{"style": 4, "text": "Oint. [MED1] Plus apply t.i.d. local application x 5 days. For fast recovery, avoid scratching."}
+{"style": 4, "text": "Tab. [MED1] 500mg 1-0-1 p.c. x 5 days (ibuprofen). Take after heavy meal to avoid stomach upset."}
+{"style": 4, "text": "Cap. [MED1] 1-0-0 a.c. & Tab. [MED2] Care 1-0-1 p.c. x 14 days for joint pain and sugar."}
+{"style": 4, "text": "Tab. [MED1] 5mg 1-0-0 a.c. daily long term. Check blood pressure twice weekly. Active lifestyle recommended."}
+{"style": 4, "text": "Syp. [MED1] Fast 10ml b.i.d. p.c. x 7 days for sore throat and cold."}
+{"style": 4, "text": "Tab. [MED1] 1-0-1 x 5 days. If price is high, ask chemist for generic azithromycin."}
+{"style": 4, "text": "Inj. [MED1] IV stat. Continue Tab. [MED2] 500mg 1-1-1 p.c. x 3 days."}
+{"style": 4, "text": "Tab. [MED1] Extra 650mg 1-0-1 SOS for knee pain. Max 2 days. Rest legs."}
+{"style": 4, "text": "Cap. [MED1] 0-0-1 h.s. x 10 days for acid reflux. Do not sleep immediately after dinner."}
+{"style": 4, "text": "Tab. [MED1] 1-0-0 a.c. x 30 days. Tab. [MED2] Life 0-0-1 p.c. x 30 days. Low salt diet."}
+{"style": 4, "text": "Syp. [MED1] 5ml t.i.d. x 5 days for child fever. Paracetamol syrup. Shake bottle well before use."}
+{"style": 4, "text": "Tab. [MED1] 100mg 1-0-1 p.c. x 7 days. Take with milk or water. Report if rash appears."}
+{"style": 4, "text": "Cap. [MED1] Ultra 1-0-0 a.c. x 14 days. Syp. [MED2] 10ml h.s. for constipation."}
+{"style": 4, "text": "Tab. [MED1] 2.5mg 1-0-0 early morning x 1 month. Monitor morning fasting sugar levels."}
+{"style": 4, "text": "Oint. [MED1] Care apply b.i.d. x 10 days for burn injury. Keep wound clean."}
+{"style": 4, "text": "Tab. [MED1] 1-0-1 p.c. x 5 days. Tab. [MED2] 0-0-1 h.s. x 5 days for severe cold and body ache."}
+{"style": 4, "text": "Cap. [MED1] 200mg 1-0-1 p.c. x 3 days. Refill 1 time if symptoms recur."}
+{"style": 4, "text": "Tab. [MED1] Plus 500mg 1-1-1 p.c. x 5 days. Syp. [MED2] 2 tsp b.i.d. for throat relief."}
+{"style": 5, "text": "Take [MED1] after food to avoid stomach upset. Keep taking it for 5 days."}
+{"style": 5, "text": "You can take [MED1] for your cold symptoms, but do not combine it with [MED2] since both contain paracetamol."}
+{"style": 5, "text": "Yes, [MED1] is available at most pharmacies. It gives fast pain relief for moderate headache."}
+{"style": 5, "text": "Hello! [MED1] usually costs around $10 for a pack of 20. Would you like care advice on managing your fever too?"}
+{"style": 5, "text": "Please check with your doctor before switching from [MED1] to [MED2], especially if you have high blood sugar."}
+{"style": 5, "text": "Drowsiness is a common side effect of [MED1]. Make sure you get plenty of rest while on this medication."}
+{"style": 5, "text": "[MED1] active ingredient is ibuprofen. Take one pill every 6 hours with a full glass of water."}
+{"style": 5, "text": "Is [MED1] safe during pregnancy? Generally, no. Try to use non-drug options or talk to your doctor."}
+{"style": 5, "text": "You can take [MED1] plus a warm tea for fast comfort against a sore throat."}
+{"style": 5, "text": "If [MED1] does not relieve your joint pain after three days, please contact your GP."}
+{"style": 5, "text": "Did u forget a dose of [MED1]? Just take it as soon as u remember, but don't double up!"}
+{"style": 5, "text": "Both [MED1] and [MED2] help reduce inflammation, but [MED2] might cause less heartburn for some people."}
+{"style": 5, "text": "Hi there, [MED1] is currently out of stock. You can ask the pharmacist for a generic option with the same active salt."}
+{"style": 5, "text": "Make sure to monitor your blood sugar level closely while taking [MED1]."}
+{"style": 5, "text": "Take 2 tablets of [MED1] before bed. It should help u sleep and manage nighttime pain."}
+{"style": 5, "text": "Do not consume alcohol while taking [MED1] because it increases the risk of liver damage."}
+{"style": 5, "text": "[MED1] care pack comes with 30 coated caplets. Store them in a cool, dry place away from sunlight."}
+{"style": 5, "text": "If you experience a skin rash or trouble breathing after taking [MED1], seek emergency medical help immediately."}
+{"style": 5, "text": "[MED1] Fast action pills are usually taken twice daily. Do not exceed 4 tablets in 24 hours."}
+{"style": 5, "text": "Should I take [MED1] or [MED2] for sinus pressure? [MED1] is better suited for nasal congestion."}
+{"style": 5, "text": "Hey! U can buy [MED1] over the counter, but [MED2] requires a prescription from your doctor."}
+{"style": 5, "text": "[MED1] can cause mild nausea. Drinking plenty of fluid and eating light meals helps."}
+{"style": 5, "text": "Is [MED1] expensive? The standard paracetamol version is cheaper than brand-name [MED1]."}
+{"style": 5, "text": "Give your body time to rest. [MED1] will help lower your fever in about 30 minutes."}
+{"style": 5, "text": "Always space out [MED1] doses by at least 4 to 6 hours."}
+{"style": 5, "text": "Can I give [MED1] to a child under 12? Please consult a pediatrician for exact dosage by weight."}
+{"style": 5, "text": "[MED1] Plus has added caffeine to help fast-track relief for severe headaches."}
+{"style": 5, "text": "You can switch from [MED1] to [MED2], but wait at least 8 hours between the two medicines."}
+{"style": 5, "text": "Taking [MED1] on an empty stomach might upset your digestion. Have a small snack first."}
+{"style": 5, "text": "Living an active life style is great, but don't overexert yourself while taking [MED1] for muscle sprains."}
+{"style": 5, "text": "[MED1] works well for mild cold symptoms. Keep hydrated and rest as much as possible!"}
+{"style": 5, "text": "Avoid driving after taking [MED1] if u feel dizzy or lightheaded."}
+{"style": 5, "text": "[MED1] is safe for daily use up to 7 days. If pain persists, consult a physician."}
+{"style": 5, "text": "Note that [MED1] contains low-dose aspirin, so check for any bleeding disorders before taking it."}
+{"style": 5, "text": "What is the price of [MED1]? It varies by pharmacy, usually between $5 and $12 per box."}
+{"style": 5, "text": "You can safely take [MED1] alongside your daily vitamin supplements."}
+{"style": 5, "text": "[MED1] Sugar Free syrup is recommended for diabetic patients suffering from severe cough."}
+{"style": 5, "text": "Is [MED1] better than [MED2]? Both are effective, but [MED1] acts faster while [MED2] lasts longer."}
+{"style": 5, "text": "Remember to check the expiry date on the [MED1] box before taking any pills."}
+{"style": 5, "text": "Hello! Take [MED1] with a large glass of water. Call us back if symptoms worsen!"}
+{"style": 6, "text": "Hi doctor, is [MED1] safe for 3 year old having 101 fever? Should I give 2.5ml or 5ml?"}
+{"style": 6, "text": "can i mix [MED1] with [MED2]? my 5yo son has severe pain and fever. pls reply fast."}
+{"style": 6, "text": "Hello, pharmacy didn't have [MED1] plus syrup, so they gave me [MED2] instead. Is it same active dose for child?"}
+{"style": 6, "text": "my baby is sleeping too much after taking [MED1]. is dis normal side effect or sugar level drop? urgent care needed?"}
+{"style": 6, "text": "[MED1] syrup price is very high at local shop. Any cheap paracetamol alternative available for kids?"}
+{"style": 6, "text": "Doc, 6 month baby got cold and mild fever. Can I give [MED1] drop or just rest?"}
+{"style": 6, "text": "How many times a day can I give [MED1] for cough? Is fast relief guaranteed?"}
+{"style": 6, "text": "Sir, [MED1] expiry date is next month. Can I still give it to my 4yr daughter for stomach pain?"}
+{"style": 6, "text": "Mera beta 2 saal ka hai, ko fever and cold hai. Can I give [MED1] syrup now?"}
+{"style": 6, "text": "Dr, given [MED1] at 8pm but fever still 102. Can I give [MED2] ibuprofen now for quick active response?"}
+{"style": 6, "text": "Is [MED1] tablet safe for 10 year old? Or syrup is better for body pain?"}
+{"style": 6, "text": "My 8yo child vomited right after taking [MED1]. Should I repeat dose or wait?"}
+{"style": 6, "text": "Pls check if [MED1] drop is available in stock. Urgent needed for baby."}
+{"style": 6, "text": "Can [MED1] cause stomach irritation? My daughter complained of severe tummy ache after taking it."}
+{"style": 6, "text": "Hello doc, child has runny nose. Should I give [MED1] or [MED2] for fast care?"}
+{"style": 6, "text": "[MED1] gives fast relief but child gets rash on skin. Should I stop it immediately?"}
+{"style": 6, "text": "Hey, is [MED1] sugar free? My son has type 1 diabetes and has bad cold."}
+{"style": 6, "text": "Mera baccha 1 year ka hai, can I give 1.5ml of [MED1] for cold and cough?"}
+{"style": 6, "text": "Doctor my 7yr daughter is active whole day but gets high fever at night. Is [MED1] fine for night dose?"}
+{"style": 6, "text": "Doctor, I accidentally gave 10ml [MED1] instead of 5ml to my 4 year old. What to do now???"}
+{"style": 6, "text": "Is [MED1] safe to take along with life saving asthma inhaler for my 9 year old?"}
+{"style": 6, "text": "Bacche ko loose motions hai. Is [MED1] syrup okay or should I give [MED2] tablet?"}
+{"style": 6, "text": "Dr saab [MED1] kitne din tak dena padega for complete recovery from chest cold?"}
+{"style": 6, "text": "Can I buy [MED1] without prescription from chemist? My kid has sudden ear pain."}
+{"style": 6, "text": "What is difference between [MED1] and [MED2] for toddlers fever? Chemist suggested both."}
+{"style": 6, "text": "Hey doc, 3yr kid is coughing non stop. Is [MED1] syrup safe before sleep time?"}
+{"style": 6, "text": "Is [MED1] plus formula strong for a tiny 5kg baby?"}
+{"style": 6, "text": "[MED1] sample doctor gave us worked well. Is same brand [MED2] good for skin allergy?"}
+{"style": 6, "text": "Hi, my kid took [MED1] twice today by mistake. Will it affect his liver? Paracetamol content is high."}
+{"style": 6, "text": "Hello doctor, does [MED1] syrup cause heavy sleepiness in young children?"}
+{"style": 6, "text": "[MED1] cap open reh gaya tha whole night. Can I still give to child or throw away?"}
+{"style": 6, "text": "Chemist gave me [MED1] drops for 2 month infant. Is it safe for active colic pain?"}
+{"style": 6, "text": "My 11yo has sore throat. Can I give [MED1] and [MED2] together for fast action?"}
+{"style": 6, "text": "Bacche ko shivering ho rahi hai. Given [MED1] 30 mins back. How long to wait for temperature drop?"}
+{"style": 6, "text": "Pls suggest alternative to [MED1], child hates the taste and vomits every time."}
+{"style": 6, "text": "Is [MED1] syrup safe if child has mild fever and takes sugar care supplement daily?"}
+{"style": 6, "text": "Can I give [MED1] along with warm milk at night for rest?"}
+{"style": 6, "text": "Doc, baby has teething fever. Is [MED1] gel safe for gums or syrup [MED2] is better?"}
+{"style": 6, "text": "Hi doc [MED1] dose for 12 kg child how much ML? lost the pack box."}
+{"style": 6, "text": "Mera 5 saal ka beta very dull feel kar raha hai after [MED1]. Is it normal?"}
+{"style": 7, "text": "hi im typing this for my nan. she wants to know if [MED1] care plus is safe to take with her paracetamol for joint pain?"}
+{"style": 7, "text": "my grandad lost his reading glasses, can he take [MED1] right after eating breakfast or on an empty stomach?"}
+{"style": 7, "text": "hey my grandma takes [MED1] every morning but her fast sugar levels are still high, should she stop taking it?"}
+{"style": 7, "text": "typing for my pop: is [MED1] supposed to cause bad heartburn? he took one with a glass of water an hour ago"}
+{"style": 7, "text": "nan says [MED1] active is too expensive at the chemist... is there a cheap generic ibuprofen version she can get instead?"}
+{"style": 7, "text": "can my grandfather take [MED1] and [MED2] together at night? he has a really bad cold and cant sleep"}
+{"style": 7, "text": "hi doctor typing this for grandma. she missed her [MED1] dose at 8am, should she take it now or wait till evening?"}
+{"style": 7, "text": "my pop wants to know if [MED1] gives you a dry mouth. he started it 3 days ago"}
+{"style": 7, "text": "nanna is asking if she can crush her [MED1] pill into apple sauce because she has trouble swallowing big tablets"}
+{"style": 7, "text": "im texting for my grandad, he took [MED1] extra fast by accident twice today, does he need to go to hospital?"}
+{"style": 7, "text": "hi, grandma wants to check if [MED1] interacts with her amlodipine for high blood pressure?"}
+{"style": 7, "text": "my nan took [MED1] for her back pain but it didn't help much. can she take paracetamol now too?"}
+{"style": 7, "text": "typing for grandad: can he drink a small beer while taking [MED1]?"}
+{"style": 7, "text": "grandma is asking why her urine turned dark yellow after starting [MED1] life..."}
+{"style": 7, "text": "is [MED1] safe for a 82 year old with kidney problems? asking for my pop"}
+{"style": 7, "text": "hi doc my nan took [MED1] and [MED2] together by mistake, is she gonna be okay?"}
+{"style": 7, "text": "my grandad wants to know if [MED1] pain relief causes stomach ulcers if taken daily"}
+{"style": 7, "text": "typing this for my nan, she wants to know if [MED1] comes in liquid form because tablets are hard"}
+{"style": 7, "text": "hey my pop forgot if he took his [MED1] this afternoon. should he take one now just in case?"}
+{"style": 7, "text": "nanna wants to know if [MED1] rest plus will make her sleepy during the day"}
+{"style": 7, "text": "hi typing for my grandma... she has a bad cold and wants to take [MED1] but she already took aspirin. is that fine?"}
+{"style": 7, "text": "can grandad cut [MED1] in half?"}
+{"style": 7, "text": "my nan gets really dizzy every time she stands up after taking [MED1], should we call her GP?"}
+{"style": 7, "text": "hi my pop wants to know if [MED1] is safe to take with omeprazole?"}
+{"style": 7, "text": "im texting for grandma, she ran out of [MED1] and the pharmacy is closed, can she skip it till tomorrow?"}
+{"style": 7, "text": "nanna is asking if [MED1] care causes constipation"}
+{"style": 7, "text": "hey, typing for my grandad. he took [MED1] with milk instead of water, does that change how fast it works?"}
+{"style": 7, "text": "is [MED1] active good for knee swelling? asking for my nan"}
+{"style": 7, "text": "my pop wants to switch from [MED1] to [MED2] because [MED1] is too pricey. are they the same thing?"}
+{"style": 7, "text": "grandma has a slight fever and wants to take [MED1] fast relief. is 500mg paracetamol safe with it?"}
+{"style": 7, "text": "can my pop take [MED1] before his blood test tomorrow morning?"}
+{"style": 7, "text": "hi typing for nan, she got a skin rash after 2 days on [MED1]. should she stop it immediately?"}
+{"style": 7, "text": "my grandad says [MED1] makes his ears ring... is that normal side effect?"}
+{"style": 7, "text": "nanna asked me to send this: can she take [MED1] and [MED2] at the exact same time?"}
+{"style": 7, "text": "hey doc, my pop is 85 and asking if [MED1] life active causes leg cramps at night"}
+{"style": 7, "text": "grandma wants to know if she needs a prescription for [MED1] or if it is over the counter"}
+{"style": 7, "text": "typing for nan: how many hours between taking [MED1] and ibuprofen?"}
+{"style": 7, "text": "my grandad wants to know if [MED1] will affect his blood sugar level"}
+{"style": 7, "text": "hi im typing this for my grandma because her hands shake. she took [MED1] for her hip pain this morning and [MED2] after lunch, but now her stomach hurts really bad. should i give her some paracetamol or call an ambulance?"}
+{"style": 7, "text": "can pop take [MED1] for his sore throat?"}
+{"style": 8, "text": "[MED1] is basically paracetamol for fast pain relief. Take two tablets with water after food."}
+{"style": 8, "text": "So [MED1] is used to lower your blood sugar. It's metformin. Take it daily with your breakfast for active control."}
+{"style": 8, "text": "You can take [MED2] for your chesty cough, but [MED1] is better for sinus pressure and cold symptoms."}
+{"style": 8, "text": "[MED1] helps with high blood pressure. Take one every morning. It provides long term care for your heart health."}
+{"style": 8, "text": "Discontinued? No, [MED1] is just out of stock. It's omeprazole, helps with stomach acid and heartburn. Try [MED2] instead."}
+{"style": 8, "text": "[MED1] plus [MED2] will calm down the allergic reaction. One is an antihistamine for fast relief, the other reduces swelling."}
+{"style": 8, "text": "Look, [MED1] is for severe joint pain. Don't take it on an empty stomach or you'll get acid reflux."}
+{"style": 8, "text": "You asked about [MED1]? That's atorvastatin for cholesterol. Helps keep your heart active and healthy."}
+{"style": 8, "text": "[MED1] is just ibuprofen 400mg. Good for fever, toothache, general body pain. Rest up and drink fluids."}
+{"style": 8, "text": "Take [MED1] before sleep. It's for night allergies and helps you sleep through the cold symptoms."}
+{"style": 8, "text": "[MED1] reduces sugar absorption. Make sure to monitor your levels daily."}
+{"style": 8, "text": "[MED1] is an antibiotic, amoxicillin. Finish the whole course even if you feel fast improvement."}
+{"style": 8, "text": "Use [MED2] if the headache persists, but [MED1] is main treatment for your migraine care."}
+{"style": 8, "text": "[MED1] is a daily maintenance inhaler for asthma. It opens your airways for active life."}
+{"style": 8, "text": "[MED1] is for thyroid support. Take it first thing in the morning on an empty stomach with plain water."}
+{"style": 8, "text": "Hi, [MED1] is for fungal nail infection. Apply it twice a day after washing."}
+{"style": 8, "text": "[MED1] relieves nausea and motion sickness. Take one tablet 30 minutes before your flight."}
+{"style": 8, "text": "Is [MED1] expensive? We have a generic version with same active ingredient for half the price. It's for acid reflux."}
+{"style": 8, "text": "[MED1] is an eye drop for dry eye syndrome. Use 2 drops daily for comfort and eye care."}
+{"style": 8, "text": "Take [MED1] twice a day with meal for bacterial infection. Avoid dairy while on this."}
+{"style": 8, "text": "[MED1] helps reduce high blood pressure. Don't skip doses even if you feel fine."}
+{"style": 8, "text": "[MED1] is for nerve pain. It might make you sleepy at first, so take it at night."}
+{"style": 8, "text": "You can use [MED2] cream for muscle aches, but [MED1] pills work faster for severe back pain."}
+{"style": 8, "text": "[MED1] is loratadine for hay fever. Non-drowsy formula so you stay active all day."}
+{"style": 8, "text": "[MED1] lowers your cholesterol. Take it in the evening with or without food."}
+{"style": 8, "text": "Oh [MED1]? Its for constipation. Drink plenty water when taking it."}
+{"style": 8, "text": "[MED1] is hydrocortisone cream for skin rash and itching. Apply a thin layer twice daily."}
+{"style": 8, "text": "[MED1] plus regular rest will clear that chest congestion in a few days."}
+{"style": 8, "text": "[MED1] helps manage type 2 diabetes by keeping sugar levels steady."}
+{"style": 8, "text": "[MED1] is a blood thinner. Be careful with sharp objects and watch for unusal bruising."}
+{"style": 8, "text": "Use [MED1] spray for blocked nose. Don't use it longer than 5 days in a row or fast rebound congestion happens."}
+{"style": 8, "text": "[MED1] is for gout flares. Take it at the first sign of pain for fast relief."}
+{"style": 8, "text": "[MED1] helps with fluid retention and swelling in legs. Takes it in morning so you don't wake up to pee."}
+{"style": 8, "text": "[MED1] is for severe acne. Avoid sun exposure while taking this medication."}
+{"style": 8, "text": "[MED1] is paracetamol plus caffeine for heavy headache relief."}
+{"style": 8, "text": "[MED1] is used for anxiety and panic symptoms. Takes a few weeks to start working properly."}
+{"style": 8, "text": "[MED2] is generic paracetamol, but [MED1] has extra active ingredients for cold and flu care."}
+{"style": 8, "text": "[MED1] is for iron deficiency anemia. Might cause dark stools, don't worry about that."}
+{"style": 8, "text": "[MED1] reduces stomach acid to let your ulcer heal. Take it 30 mins before breakfast."}
+{"style": 8, "text": "[MED1] is for acute pain relief. Don't take it longer than 3 days without consulting doctor."}
+{"style": 9, "text": "Started taking [MED1] 500mg since yesterday for fever and body pain. Now feeling very dizzy and nauseous. Is this a normal side effect or should I stop?"}
+{"style": 9, "text": "My doctor prescribed [MED1] plus [MED2] for chest congestion. Taking it after dinner but experiencing severe acidity and stomach burning. Anyone else faced this?"}
+{"style": 9, "text": "Facing extreme sleepiness after taking [MED1] tablet. Working night shifts so this is becoming a big problem. Any alternative care options?"}
+{"style": 9, "text": "Is headache and dry mouth common after 3 days of [MED1]? Price is quite high compared to generic paracetamol so expecting better results."}
+{"style": 9, "text": "Took [MED1] fast rest tablet empty stomach this morning. Got severe cramps and diarrhea within 2 hours. Should I switch to [MED2]?"}
+{"style": 9, "text": "Has anyone noticed skin rashes after using [MED1]? Doctor gave it for throat infection along with paracetamol."}
+{"style": 9, "text": "My father is 62, taking [MED1] for high sugar. He complains of tingling sensation in hands. Is it due to this medicine?"}
+{"style": 9, "text": "Feeling lightheaded after taking [MED1] 10mg daily morning. BP is normal. Should I reduce dose?"}
+{"style": 9, "text": "Doctor prescribed [MED1] active care twice a day. Experiencing loss of appetite and mild nausea. Will it subside after few days?"}
+{"style": 9, "text": "Can [MED1] cause hair fall? Using it for 2 months now. Results are good for pain relief but noticing more hair loss recently."}
+{"style": 9, "text": "Switched from generic to [MED1] last week. Getting constant gastric troubles and bloating. Is brand quality really different?"}
+{"style": 9, "text": "Taking [MED1] along with [MED2] for pain. Suddenly developing mouth ulcers and metallic taste. Should I stop immediately?"}
+{"style": 9, "text": "Is insomnia a known side effect of [MED1]? Can't sleep properly since starting this 5 days ago."}
+{"style": 9, "text": "My mother got severe shivering and cold sweat after 1 hour of taking [MED1]. Consulted doctor who said it's fine, but worrying."}
+{"style": 9, "text": "Can I take [MED1] with warm milk? Facing severe heartburn when taking with plain water."}
+{"style": 9, "text": "Is [MED1] safe for long term? Doc gave for joint pain but getting mild leg swelling now."}
+{"style": 9, "text": "Experiencing extreme drowsiness with [MED1] fast relief. Cannot focus on office work at all. Suggestions?"}
+{"style": 9, "text": "Took [MED1] for cold and cough yesterday night. Woke up with swollen eyes and itching. Is this allergic reaction?"}
+{"style": 9, "text": "Anyone facing anxiety or rapid heartbeat after starting [MED1]? Started 3 days back for allergy relief."}
+{"style": 9, "text": "Is [MED1] safe during period cramps? Friend suggested it but heard it causes heavy bleeding."}
+{"style": 9, "text": "Why is [MED1] so expensive? Paid 300 rs for strip, but giving me bad constipation."}
+{"style": 9, "text": "Doc prescribed [MED1] and [MED2] for sinus. Feeling very weak and shivering slightly after evening dose. Normal?"}
+{"style": 9, "text": "Getting loose motion after 2 days of [MED1] course. Doctor not picking call. Should I take electrolyte?"}
+{"style": 9, "text": "Can [MED1] cause weight gain? Taking for thyroid issue since 3 months."}
+{"style": 9, "text": "Felt sharp stomach pain 30 mins after taking [MED1] plus care tablet. Is it okay to take antacid with it?"}
+{"style": 9, "text": "Does [MED1] affect kidney? My urine color changed to dark yellow after starting it."}
+{"style": 9, "text": "Taking [MED1] for nerve pain. Feeling extreme drowsiness and blurred vision. Is dose too high?"}
+{"style": 9, "text": "Is it normal to feel extra thirsty after taking [MED1]? Drinking 4 liters water still mouth feels dry."}
+{"style": 9, "text": "Doctor gave [MED1] for fungal infection. Getting severe headache every time after taking dose. Any tips?"}
+{"style": 9, "text": "Took [MED1] empty stomach by mistake. Having vomiting sensation and acidity. What to do now?"}
+{"style": 9, "text": "Is [MED1] available over the counter in Mumbai? Local chemist gave [MED2] substitute, causing tummy upset."}
+{"style": 9, "text": "My uncle taking [MED1] active for blood pressure. Getting dry cough since 2 weeks. Is cough linked to this tab?"}
+{"style": 9, "text": "Started [MED1] yesterday. Facing weird metallic taste in mouth and nausea. Is this temporary?"}
+{"style": 9, "text": "Can [MED1] cause low sugar level? Feeling shaky and sweating after taking afternoon dose."}
+{"style": 9, "text": "Took [MED1] 650 for body fever, got mild red spots on neck. Is it safe to take second dose?"}
+{"style": 9, "text": "Is severe acidity common with [MED1] life care? Taking pantoprazole along with it still not getting relief."}
+{"style": 9, "text": "Prescribed [MED1] and [MED2] after wisdom tooth surgery. Facing severe sleepiness and constipation. Any diet advice?"}
+{"style": 9, "text": "Does [MED1] slow down digestion? Feeling heavy stomach even after light meal."}
+{"style": 9, "text": "Why does [MED1] cause so much sweating? Taking it for viral fever as per physician advice."}
+{"style": 9, "text": "Got severe mouth dryness and restlessness after taking [MED1] fast active tab. Should I visit casualty or wait?"}
+{"style": 10, "text": "Sir, taking [MED1] 500mg since yesterday but fever not reduced. Can I take paracetamol plus rest today?"}
+{"style": 10, "text": "My uncle having sugar problem doctor prescribed [MED1] for morning and [MED2] for night time. Is it safe to take together?"}
+{"style": 10, "text": "Today local medical shop saying [MED1] no stock available. Any alternative fast relief tablet is there?"}
+{"style": 10, "text": "Taking [MED1] after food daily but getting heavy stomach pain and dizziness. What to do sir?"}
+{"style": 10, "text": "Amma is taking [MED1] for past 3 months. Now blood sugar level coming normal only, can we stop medicine?"}
+{"style": 10, "text": "I am having severe body pain so took [MED1] tablet. How many hours gap needed before taking next dose?"}
+{"style": 10, "text": "Bro, for mild cold and headache [MED1] is better or plain paracetamol syrup? Please tell fast."}
+{"style": 10, "text": "My doctor told to take [MED1] along with [MED2] active capsules for knee pain. But price is too high in pharmacy."}
+{"style": 10, "text": "Getting small rash on skin after taking morning dose of [MED1]. Should I stop immediately or continue care?"}
+{"style": 10, "text": "Is [MED1] safe for 8 year old child? He is having dry cough and slight feverish feeling since evening."}
+{"style": 10, "text": "Medical store bhaiya gave [MED1] instead of [MED2] saying both salt same only. Is it correct or I should change?"}
+{"style": 10, "text": "Taking [MED1] 50mg regularly for blood pressure. Yesterday night forgot to take dose, can I take now morning?"}
+{"style": 10, "text": "Sir, [MED1] price increased too much nowadays. Any generic substitute available with same paracetamol content?"}
+{"style": 10, "text": "Having gastric problem after eating spicy food. Doctor prescribed [MED1] plus antacid gel. When to take exactly?"}
+{"style": 10, "text": "For past one week taking [MED1] twice daily. Pain reduced but feeling very loose motion and tiredness."}
+{"style": 10, "text": "My father taking [MED1] 1000mg for sugar control. Can he take paracetamol extra if he gets cold and head pain?"}
+{"style": 10, "text": "Is there any side effect if I take [MED1] with hot milk? Doctor gave for bone strength and life care."}
+{"style": 10, "text": "Nearby pharmacy shop told [MED1] is banned item now. They are giving [MED2] instead. Is it true sir?"}
+{"style": 10, "text": "Taken [MED1] yesterday night for sleep issue. Still feeling morning drowsiness. Can I drive bike today?"}
+{"style": 10, "text": "Dr prescribed [MED1] twice a day for 5 days. Today 3rd day but no improvement in throat pain."}
+{"style": 10, "text": "My mother is 65 years old. She is taking [MED1] for joint care and [MED2] for heart problem."}
+{"style": 10, "text": "Can I split [MED1] tablet into half and take? Whole tablet is too big to swallow."}
+{"style": 10, "text": "Sir, [MED1] tablet is out of stock everywhere in Chennai. Please suggest substitute with same composition."}
+{"style": 10, "text": "After taking [MED1] getting bitter taste in mouth and nausea feeling. Is this normal side effect only?"}
+{"style": 10, "text": "My doctor suggested [MED1] for fast recovery from viral infection. Took one strip completely, feeling active now."}
+{"style": 10, "text": "Having severe back pain due to long sitting in office work. Is [MED1] safe for immediate relief?"}
+{"style": 10, "text": "Can pregnant ladies take [MED1] for severe migraine pain? Kindly clarify quickly urgent requirement."}
+{"style": 10, "text": "Please tell how many days continuous we can use [MED1] eye drops? Opened bottle 2 weeks back."}
+{"style": 10, "text": "Taking [MED1] daily morning empty stomach. But today mistakenly took after breakfast. Any problem will come?"}
+{"style": 10, "text": "Yesterday I bought [MED1] from online app. Expiry date showing next month. Can I use safely?"}
+{"style": 10, "text": "Sir, my grandfather taking [MED1] for kidney problem and [MED2] for sugar. Both fine to give together?"}
+{"style": 10, "text": "Took two tablets of [MED1] by mistake instead of one. Feeling little bit shaky. Should I visit hospital?"}
+{"style": 10, "text": "My brother got fever so doctor gave [MED1] syrup 5ml. But he vomited whole medicine immediately. What to do now?"}
+{"style": 10, "text": "Is [MED1] active care good for hair fall issue? My friend recommended this for daily use."}
+{"style": 10, "text": "Having chest congestion and heavy cold. Doctor prescribed [MED1] inhaler plus paracetamol 650mg for 3 days."}
+{"style": 10, "text": "Sir, [MED1] cost is Rs 450 per strip. Very costly for us. Any government Jan Aushadhi generic equivalent available?"}
+{"style": 10, "text": "I am taking [MED1] for allergy problem since last two years continuously. Is it safe for liver?"}
+{"style": 10, "text": "Doctor gave [MED1] 10mg night time for blood pressure. Can I take alcohol occasionally while on this course?"}
+{"style": 10, "text": "Took [MED1] in afternoon for toothache pain. Relief came within half hour itself. Very effective medicine."}
+{"style": 11, "text": "Tab [MED1] 500mg - take 1 tablet PO twice daily after meals for pain relief."}
+{"style": 11, "text": "Continue [MED1] 10mg daily for blood pressure, monitor sugar levels closely."}
+{"style": 11, "text": "Discharge meds: [MED2] 20mg stat, then [MED1] 10mg daily morning with water."}
+{"style": 11, "text": "Start [MED1] 50mg BD x 5 days for severe throat infection. Rest and hydrate."}
+{"style": 11, "text": "Discontinue previous pain killer, switch to [MED1] plus paracetamol 650mg if fever > 101F."}
+{"style": 11, "text": "Take [MED1] 1 tab fast action for acute chest care before emergency arrival."}
+{"style": 11, "text": "Syrup [MED1] 5ml tid for 3 days for cough & cold symptoms."}
+{"style": 11, "text": "Patient advised to purchase [MED1] from pharmacy; brand substitute [MED2] is also acceptable if out of stock."}
+{"style": 11, "text": "Tab [MED1] 50mg - 1-0-1 x 7 days. Watch out for stomach upset or nausea."}
+{"style": 11, "text": "Resume home medication [MED1] 2.5mg OD for heart care."}
+{"style": 11, "text": "[MED1] 40mg cap po qd ac (before breakfast). Do not crush or chew."}
+{"style": 11, "text": "Inj [MED1] given IV stat. Prescribed tab [MED2] 500mg for home care twice a day."}
+{"style": 11, "text": "[MED1] ointment - apply locally on affected area active rash twice daily after bath."}
+{"style": 11, "text": "T. [MED1] 0.5mg at bedtime for sleep. Avoid driving after taking this med."}
+{"style": 11, "text": "Advised [MED1] 100mg daily. Note: high price, check if insurance covers [MED2] generic alternative."}
+{"style": 11, "text": "Continue tab [MED1] 1000mg for sugar control. Check FBS weekly."}
+{"style": 11, "text": "Stop [MED1] immediately due to allergic skin reaction. Start [MED2] 10mg daily instead."}
+{"style": 11, "text": "Tab [MED1] fast release 10mg - take 1 sublingually during acute pain episode."}
+{"style": 11, "text": "[MED1] 500mg + amlodipine 5mg: 1 tab daily morning for hypertension management."}
+{"style": 11, "text": "Give [MED1] drops 2 puffs each nostril for sinus cold relief as needed."}
+{"style": 11, "text": "Tab [MED1] 250mg 1 tab TDS x 5days post surgery care."}
+{"style": 11, "text": "[MED1] 10mg oral suspension - 2.5 ml PRN for high fever active care."}
+{"style": 11, "text": "Patient reported dizziness with [MED1]; reduced dose to 5mg OD."}
+{"style": 11, "text": "Rx: Tab [MED1] 15mg HS x 14 days. Take with milk or heavy snack."}
+{"style": 11, "text": "[MED1] 75mg daily along with [MED2] 81mg for cardiac protection."}
+{"style": 11, "text": "Please collect [MED1] from retail store. Affordable option available under generic name paracetamol."}
+{"style": 11, "text": "Tab [MED1] plus 400mg ibuprofen for joint pain, 1 tab after lunch."}
+{"style": 11, "text": "[MED1] 20mg - take once every morning. Maintain active life style and low salt diet."}
+{"style": 11, "text": "Cap [MED1] 150mg single dose today for fungal infection, follow up in clinic."}
+{"style": 11, "text": "Discharge advise: [MED1] 1 tab morning, [MED2] 1 tab night. Drink plenty fluids."}
+{"style": 11, "text": "Stop [MED1] 50mg. Switch to tab [MED2] 25mg BD due to persistent dry cough."}
+{"style": 11, "text": "Apply [MED1] gel to knee joint for pain care TDS."}
+{"style": 11, "text": "Tab [MED1] 1mg - 0-0-1. Warning: May cause drowsiness."}
+{"style": 11, "text": "Take [MED1] 500mg stat if headache persists, max 3 tabs per day."}
+{"style": 11, "text": "[MED1] 5mg tab daily for thyroid support. Take on empty stomach with water."}
+{"style": 11, "text": "Discharge meds: [MED1] 200mg cap BD x 7 days. Finish full course even if feeling better."}
+{"style": 11, "text": "[MED1] supplement 1 cap daily for life long bone health."}
+{"style": 11, "text": "Prescribed [MED1] 10mg for acid reflux. If unavailable, take [MED2] 20mg."}
+{"style": 11, "text": "Tab [MED1] 50mg PRN for anxiety or fast heart beat, max 2 tabs/24hrs."}
+{"style": 11, "text": "Continue [MED1] 80mg daily. Monitor renal profile next week."}
+{"style": 0, "text": "Doc, I accidentally took two doses of [MED1] instead of one this morning. Should I skip the evening dose or go to ER? My stomach feels a bit weird."}
+{"style": 0, "text": "Hello Doctor, [MED1] is out of stock at my local pharmacy. Can I just take generic paracetamol for the fever instead?"}
+{"style": 0, "text": "Hi doc, my husband started taking [MED1] yesterday but now he has a red rash on his arms. Should he stop taking it immediately?"}
+{"style": 0, "text": "Doc quick question, can I take [MED1] with my morning coffee or does it need to be on a empty stomach? Getting severe heartburn."}
+{"style": 0, "text": "Good morning dr. I lost my prescription for [MED1]. Can you resend it? Need fast care as my chest pain is getting worse."}
+{"style": 0, "text": "Dr, is it normal to feel super dizzy after taking [MED1]? I took it 2 hours ago with water. Feeling very anxious right now."}
+{"style": 0, "text": "Hey doc, pharmacy gave me [MED1] instead of [MED2] saying it's the exact same thing. Is that true? Just want to be sure."}
+{"style": 0, "text": "Doctor sorry to bother you late, my mother missed her [MED1] dose at 8pm. Should she take it now at midnight or wait till morning?"}
+{"style": 0, "text": "Hi Dr, [MED1] is way too expensive for me right now. Is there a cheaper alternative with the same active ingredients?"}
+{"style": 0, "text": "Hello Dr, my sugar levels spiked after starting [MED1]. Could this pill be causing it or is it just my diet?"}
+{"style": 0, "text": "Doc I took [MED1] for my cold but my blood pressure is elevated today. Should I switch to [MED2]?"}
+{"style": 0, "text": "Dr. my son vomited 10 mins after taking [MED1]. Should I give him another dose now or wait?"}
+{"style": 0, "text": "Hi doc, can I take ibuprofen while I'm still on [MED1] course? The knee pain is unbearable."}
+{"style": 0, "text": "Doc please help, I took [MED1] by mistake instead of my regular allergy medicine [MED2]. What should I do??"}
+{"style": 0, "text": "Good evening doctor, how many days should I stay on [MED1]? The box doesn't say clear."}
+{"style": 0, "text": "Dr, feeling very sleepy after taking [MED1] plus my head is spinning. Is it safe to drive to work?"}
+{"style": 0, "text": "Hi doctor, I need urgent advice. My skin is itching badly since I started [MED1] 3 days ago. Could it be allergy?"}
+{"style": 0, "text": "Doc, can I take [MED1] and [MED2] together at night? One is for sleep and one for pain."}
+{"style": 0, "text": "Hello Dr, I accidentally gave my daughter 5ml of [MED1] instead of 2.5ml. She seems fine but I'm worried!"}
+{"style": 0, "text": "Doctor, is [MED1] safe during early pregnancy? I just found out I am pregnant today and took one this morning."}
+{"style": 0, "text": "Hi doc... is [MED1] fast acting? Took it an hour ago for severe cramps but no relief yet."}
+{"style": 0, "text": "Dr, pharmacy only has [MED1] in 500mg but you wrote 250mg. Can I cut the tablet in half?"}
+{"style": 0, "text": "Doc my stomach hurts so bad after [MED1]... should i take it with food or milk next time?"}
+{"style": 0, "text": "Good morning doctor, is it ok to stop taking [MED1] now that my fever is gone? I hate taking pills."}
+{"style": 0, "text": "Hi doc, I've been taking [MED1] for a week but my cough is worse. Should we add [MED2]?"}
+{"style": 0, "text": "Doctor, my father is showing signs of confusion after starting [MED1] yesterday. Is this a common side effect?"}
+{"style": 0, "text": "Doc, I drank a glass of wine before remembering I had to take [MED1]. Am I in danger?"}
+{"style": 0, "text": "Hello Dr! Is [MED1] better taken before bed or first thing in the morning? The instructions are confusing."}
+{"style": 0, "text": "Dr, I run a very active life style and [MED1] makes me feel super weak. Can we change the dosage?"}
+{"style": 0, "text": "Hi doctor, can [MED1] cause stool discoloration? Noticed it today after taking 2 pills yesterday."}
+{"style": 0, "text": "Doc urgent! My throat feels tight after taking [MED1]. Having trouble breathing. Should I call ambulance??"}
+{"style": 0, "text": "Hello dr, my cousin recommended [MED1] for my joint pain... should I try it or stick to paracetamol?"}
+{"style": 0, "text": "Dr, I forgot if I took my [MED1] this morning or not. Should I take one now just to be safe?"}
+{"style": 0, "text": "Doc, can [MED1] be crushed and mixed with juice? My mom can't swallow big capsules."}
+{"style": 0, "text": "Good afternoon doctor, does [MED1] interact with daily multivitamin plus iron supplements?"}
+{"style": 0, "text": "Hi Dr, I've been taking [MED1] for 3 days but I have severe diarrhea today. Is this normal?"}
+{"style": 0, "text": "Doc, [MED1] worked great for my headache, but now I feel a burning in my chest. What to do?"}
+{"style": 0, "text": "Dr please respond, the pharmacy gave me expired [MED1]. I took 1 tablet before checking date. Will I be okay?"}
+{"style": 0, "text": "Hello doc, is it safe to take [MED1] along with [MED2] for a bad cold? Desperate for rest tonight."}
+{"style": 0, "text": "Dr, my baby's fever is 102F. Gave him [MED1] 3 hours ago but it's not dropping. Can I give paracetamol now?"}
+{"style": 1, "text": "Doctor saab [MED1] khane ke baad bohot drowsiness ho rahi hai. Kya main [MED2] le sakta hu iski jagah?"}
+{"style": 1, "text": "Plz [MED1] ka dosage bata do sir, subah lena hai ya raat ko khane ke baad?"}
+{"style": 1, "text": "Dr, chemist wale ke paas [MED1] nahi hai, wo bol raha hai [MED2] le lo. Kya dono same hai?"}
+{"style": 1, "text": "Sir fever drop ho gaya hai par body pain fast care chahiye, [MED1] continue rakhu kya?"}
+{"style": 1, "text": "Good morning dr, [MED1] lene se pet me jalan ho rahi hai. Sugar free syrup bhi sath me du?"}
+{"style": 1, "text": "Hello doc, mom ki [MED1] khatam ho gayi hai. Kya online order kar du ya alternative [MED2] dedu?"}
+{"style": 1, "text": "Doctor kya [MED1] aur paracetamol ek sath lene se koi side effect hota hai?"}
+{"style": 1, "text": "Sir meko severe cold aur headache hai. [MED1] plus rest se thik ho jayega na?"}
+{"style": 1, "text": "[MED1] kitne din tak leni hai dr? Aaj 5 din ho gaye."}
+{"style": 1, "text": "Dr uncle ko [MED1] suit nahi kar rahi, vomiting sensation ho raha hai. Please substitute [MED2] prescribe kar do."}
+{"style": 1, "text": "Sir meko [MED1] ki jagah generic paracetamol le sakte hai? [MED1] thodi expensive lag rahi hai."}
+{"style": 1, "text": "Hello dr, mistake se maine [MED1] ki do tablet ek sath le li. Koi tension ki baat hai kya?"}
+{"style": 1, "text": "Dr saab, [MED1] lene ke kitne time baad khana khana hai? Fast response plzz."}
+{"style": 1, "text": "Dr [MED1] lene ke baad rash ho gaye hai body pe. Turant call karu aapko?"}
+{"style": 1, "text": "Sir back pain bohot zyada hai. Aapne jo [MED1] di thi usse relief nahi mila. [MED2] start karu?"}
+{"style": 1, "text": "Good evening doc, [MED1] 500mg leni hai ya 650mg? Prescription clear nahi dikh raha."}
+{"style": 1, "text": "[MED1] available nahi hai medical store pe. Alternate solution batayiye urgent."}
+{"style": 1, "text": "Sir kya main [MED1] lene ke sath active lifestyle and gym continue kar sakta hu?"}
+{"style": 1, "text": "Doc, [MED1] khali pet leni hai ya khana khane ke baad?"}
+{"style": 1, "text": "Sir chest me thoda pain hai, kya [MED1] use kar sakte hai temporary relief ke liye?"}
+{"style": 1, "text": "Dr saab, [MED1] 10 days se le raha hu. Normal blood sugar levels aa rahe hai ab. Stop kar du?"}
+{"style": 1, "text": "Doc plzz reply, baby ko [MED1] kitne ml dena hai? Weight 8kg hai."}
+{"style": 1, "text": "Sir [MED1] aur [MED2] ek sath lene me koi interaction toh nahi hoga na? Papa pucch rahe the."}
+{"style": 1, "text": "Hello doctor, [MED1] ki strip expire ho gayi thi par galti se le li. Ab kya karu?"}
+{"style": 1, "text": "Doc, [MED1] tablet split karke aadhi le sakta hu kya? Poori bohot badi hai."}
+{"style": 1, "text": "Sir medical walo ne [MED1] ki jagah [MED2] de diya bolke ki brand active ingredient same hai. Dedu grandfather ko?"}
+{"style": 1, "text": "Dr [MED1] syrup child care ke liye safe hai na? Meri beti ko cold and cough hai."}
+{"style": 1, "text": "Sir loose motion control nahi ho rahe, [MED1] plus ORS le raha hu par farak nahi pad raha."}
+{"style": 1, "text": "Doctor saab [MED1] lene ke baad urine dark yellow ho gaya hai. Normal hai kya?"}
+{"style": 1, "text": "Doc [MED1] night me lena skip kar diya bhool se. Ab subah double dose lu kya?"}
+{"style": 1, "text": "Hello doc, [MED1] lene se headache zero ho gaya, thanks a lot!"}
+{"style": 1, "text": "[MED1] ka price bohot high hai sir, koi cheaper brand ya generic salt suggest kar do na."}
+{"style": 1, "text": "Dr saab, stomach pain plus acidity hai. [MED1] ke sath antacid le lu?"}
+{"style": 1, "text": "Sir dad ki sugar readings [MED1] lene ke baad bhi high aa rahi hai. Dose badhani padegi kya?"}
+{"style": 1, "text": "Good morning sir, cold fast relief ke liye [MED1] continue karu ya stop kar du?"}
+{"style": 1, "text": "Doc [MED1] lene ke baad life heavy lag rahi hai, chakkar aa rahe hai bohot zyaada."}
+{"style": 1, "text": "Sir [MED1] tablet ko pani me dissolve karke pilaye ya direct? Patient le nahi pa rahe."}
+{"style": 1, "text": "Dr [MED1] lene se sleeping problem ho rahi hai, raat ko nind nahi aati. Is this normal?"}
+{"style": 1, "text": "Sir chemist shop me [MED1] ka stock nahi hai. Online mil rahi hai 3 din me. Tab tak [MED2] le lu?"}
+{"style": 1, "text": "Doctor, BP check kiya 140/90 aaya. [MED1] regular lene ke baad bhi upar hai. Kya karu?"}
+{"style": 2, "text": "डॉक्टर साहब, क्या मैं [MED1] को खाली पेट ले सकता हूँ? मुझे पेट में थोड़ा pain हो रहा है।"}
+{"style": 2, "text": "[MED1] 500mg दिन में कितनी बार लेनी है? मेडिकल स्टोर वाला बोल रहा था कि [MED2] भी साथ में लेनी पड़ेगी।"}
+{"style": 2, "text": "सर, मैंने गलती से [MED1] की जगह [MED2] खा ली। कोई problem तो नहीं होगी? बहुत fast चक्कर आ रहे हैं।"}
+{"style": 2, "text": "क्या [MED1] लेने के बाद sugar check कर सकते हैं?"}
+{"style": 2, "text": "डॉक्टर जी, [MED1] का price बहुत high है। क्या इसका कोई सस्ता alternate या generic plus version है?"}
+{"style": 2, "text": "[MED1] लेने के बाद बुखार तो उतर गया पर शरीर में weakness है। Care की जरुरत है क्या?"}
+{"style": 2, "text": "सर, मुझे 3 दिन से cold और severe pain है। क्या मैं paracetamol के साथ [MED1] खा सकता हूँ?"}
+{"style": 2, "text": "[MED1] सिरप बच्चों के लिए safe है क्या? मेरे 5 साल के बच्चे को cough है।"}
+{"style": 2, "text": "नमस्ते डॉक्टर, [MED1] लेने के बाद skin पर red rash हो गया है। क्या मैं [MED2] बंद कर दूँ?"}
+{"style": 2, "text": "क्या [MED1] और [MED2] को एक साथ रात को सोने से पहले ले सकते हैं?"}
+{"style": 2, "text": "डॉक्टर साहब, [MED1] बाजार में उपलब्ध नहीं है। क्या इसकी जगह [MED2] 10mg ले सकते हैं?"}
+{"style": 2, "text": "मुझे acidity हो रही है [MED1] लेने के बाद। क्या pantoprazole साथ में लूँ?"}
+{"style": 2, "text": "[MED1] की dose बढ़ा दी है आपने? पहले 250mg थी अब 500mg active dose लिखी है।"}
+{"style": 2, "text": "क्या [MED1] गर्भावस्था में लेना सुरक्षित है? बहुत तेज headache है।"}
+{"style": 2, "text": "डॉक्टर साहब, [MED1] morning में खानी है या evening में? Khana khane ke baad ya pehle?"}
+{"style": 2, "text": "[MED1] का असर कितनी देर में शुरू होता है? Fast relief चाहिए pain से।"}
+{"style": 2, "text": "सर, [MED1] की कितनी tablet बची हैं, क्या refill के लिए नया prescription चाहिए?"}
+{"style": 2, "text": "क्या [MED1] से नींद आती है? मुझे driving करनी होती है daily care के साथ।"}
+{"style": 2, "text": "[MED1] और ibuprofen में क्या अंतर है? क्या दोनों साथ में ले सकते हैं?"}
+{"style": 2, "text": "डॉक्टर साहब, मम्मी का BP हाई है और वो [MED1] ले रही हैं। आज चक्कर आ रहे हैं, [MED2] भी देनी है क्या?"}
+{"style": 2, "text": "[MED1] लेने के बाद loose motions हो रहे हैं। दवा चेंज कर दीजिए please।"}
+{"style": 2, "text": "क्या [MED1] प्लस capsule खाली पेट लेना सही है या नाश्ते के बाद?"}
+{"style": 2, "text": "डॉक्टर जी, [MED1] लेने के बाद कितना rest करना चाहिए?"}
+{"style": 2, "text": "[MED1] की 10 गोली का rate ₹400 है, यह बहुत costly है। कोई और medicine लिख दीजिए।"}
+{"style": 2, "text": "क्या मैं [MED1] को दूध के साथ ले सकता हूँ?"}
+{"style": 2, "text": "सर [MED1] दिन में 3 बार लेने को बोला था, पर मैं 1 खुराक भूल गया। अब क्या करूँ?"}
+{"style": 2, "text": "[MED1] 50mg और [MED2] लेने से जी मिचला रहा है। क्या यह normal side effect है?"}
+{"style": 2, "text": "क्या [MED1] लेने के बाद alcohol पी सकते हैं party में?"}
+{"style": 2, "text": "डॉक्टर साहब, [MED1] खत्म हो गई है और chemist के पास [MED2] नहीं है। अब क्या लूँ?"}
+{"style": 2, "text": "मुझे डायबिटीज है और sugar level 200 है। क्या [MED1] safe है my life के लिए?"}
+{"style": 2, "text": "[MED1] drops बच्चे को देने के बाद उल्टी हो जाती है। Active syrup बदलना पड़ेगा क्या?"}
+{"style": 2, "text": "क्या [MED1] लेने से वजन बढ़ता है? 2 महीने से ले रहा हूँ।"}
+{"style": 2, "text": "Doctor, [MED1] के साथ multivitamin active tablet ले सकते हैं?"}
+{"style": 2, "text": "[MED1] 100mg की जगह गलती से 200mg ले ली है, घबराहट हो रही है। Fast help कीजिए!"}
+{"style": 2, "text": "डॉक्टर साहब, [MED1] कितने दिन तक लगातार लेनी है? 10 दिन हो गए हैं।"}
+{"style": 2, "text": "[MED1] लेने के बाद पेशाब का रंग पीला आ रहा है। Care वाली कोई बात तो नहीं?"}
+{"style": 2, "text": "क्या cold और fever में [MED1] के साथ paracetamol ले सकते हैं?"}
+{"style": 2, "text": "सर, [MED1] की expiry date 2 महीने पुरानी थी, गलती से खा ली। Urgent reply please!"}
+{"style": 2, "text": "डॉक्टर जी, क्या [MED1] और [MED2] के बीच में 2 घंटे का gap रखना जरूरी है?"}
+{"style": 2, "text": "[MED1] cream चेहरे पर लगाने से जलन हो रही है। Skin Care के लिए कुछ और बताइए।"}
+{"style": 3, "text": "Bhai 1 strip [MED1] aur ek bottle [MED2] cough syrup bhej do ghar pe. Fast care delivery please."}
+{"style": 3, "text": "Hi uncle, do you have [MED1] 500mg available? Mummy ko fever ke sath body pain hai."}
+{"style": 3, "text": "Plz send 2 strips of [MED1] for BP and [MED2] for sugar level. Same address as last time."}
+{"style": 3, "text": "Bhaiya is [MED1] safe for stomach ache? Or should I take paracetamol plus [MED2] instead? Let me know the price also."}
+{"style": 3, "text": "Good morning bhaiya, please send [MED1] 10mg strip. Also need fast relief for bad cold and cough."}
+{"style": 3, "text": "Hello bhaiya [MED1] ka alternative generic hai kya? Original active dose is too costly for me."}
+{"style": 3, "text": "Bhaiya, urgent! Need [MED1] for allergy and [MED2] ointment for burn. How much time will delivery take?"}
+{"style": 3, "text": "Please deliver 1 pack [MED1] 650 and 1 bottle [MED2]. Mummy needs rest today, headache is severe."}
+{"style": 3, "text": "Is [MED1] available right now? Doctor prescribed this for loose motion and acidity. Need fast delivery."}
+{"style": 3, "text": "[MED1] 20mg 3 strips, [MED2] 1 bottle send to my home plz. Online payment ya cash on delivery?"}
+{"style": 3, "text": "Hi, [MED1] capsule morning me khana hai ya night me? After food correct?"}
+{"style": 3, "text": "Uncle, paracetamol generic me h? Ya fir [MED1] plus leni padegi cold active fever ke liye?"}
+{"style": 3, "text": "Send 1 strip [MED1] for diabetes control. Also do you have [MED2] for joint pain care?"}
+{"style": 3, "text": "Bhaiya [MED1] le sakte hain after food? Stomach me heavy lag raha h after taking [MED2]."}
+{"style": 3, "text": "Can you send 1 bottle of [MED1] syrup and 2 strips of [MED2]? Emergency needed for kid."}
+{"style": 3, "text": "Plz check if [MED1] is in stock. If not available then give me any fast action paracetamol substitute."}
+{"style": 3, "text": "Hi bhaiya, send 1 strip [MED1] and 1 tube [MED2] skin cream. Kitna bill hua tell me on WhatsApp."}
+{"style": 3, "text": "Bhai 10 tablets [MED1] ke bhej do fast. Toothache ho raha hai bohot tez."}
+{"style": 3, "text": "Hello uncle, sending doctor prescription photo for [MED1] and [MED2]. Plz arrange today evening."}
+{"style": 3, "text": "Do you have [MED1] gel for muscle pain? Need immediate relief for my back, plus send [MED2] tablets."}
+{"style": 3, "text": "Bhaiya [MED1] 50mg drop karega kya blood pressure fast? Is there any serious side effect?"}
+{"style": 3, "text": "Send 2 strips [MED1] care tabs. Also need 1 Dettol liquid and [MED2] drops. Total bill estimate?"}
+{"style": 3, "text": "Bhai [MED1] expiry date check karke bhejna last time expired tha. Also 1 strip [MED2]."}
+{"style": 3, "text": "Plz send [MED1] 40mg (10 tabs). Also suggest a good syrup for dry cough and cold rest."}
+{"style": 3, "text": "Hello, do you stock [MED1] 5mg? My sugar active levels are high today. Deliver by 2pm please."}
+{"style": 3, "text": "Uncle [MED1] 100ml syrup available h? Bachhe ko severe cold & throat infection h."}
+{"style": 3, "text": "Bhaiya [MED1] ke jagah [MED2] le sakte hain kya? Composition ibuprofen 400mg hi h na?"}
+{"style": 3, "text": "Bhai send [MED1] for acidity fast. Heartburn bohot zyada ho raha h today."}
+{"style": 3, "text": "Plz deliver 5 strips [MED1] monthly medicine for my grandfather. Discount milega kya?"}
+{"style": 3, "text": "Hi bhaiya, urgent! Need [MED1] 250mg syrup for baby fever and [MED2] pain relief spray."}
+{"style": 3, "text": "Bhai, [MED1] 500 le ya [MED2] 650 for severe headache and body pain? Plz recommend fast."}
+{"style": 3, "text": "Uncle please send [MED1] cream and [MED2] dusting powder. Need total care for skin rash."}
+{"style": 3, "text": "Bhaiya is [MED1] prescription only or counter par mil jayega? Urgent requirement for sleep."}
+{"style": 3, "text": "Please send 1 strip [MED1] and 1 bottle [MED2] multivitamin syrup. Gpay number send kar do."}
+{"style": 3, "text": "Bhaiya [MED1] tablet empty stomach leni h kya morning me? Acidity plus gas problem h."}
+{"style": 3, "text": "Plz deliver 2 strips [MED1] and 1 strip [MED2]. Fast delivery please, patient is not feeling well."}
+{"style": 3, "text": "Uncle [MED1] available hai? Sugar test strips and [MED2] 10mg b bhej dena ghar par."}
+{"style": 3, "text": "Bhaiya, do you have [MED1] for eye care? Dust allergy se red eyes ho gayi hain, plus need [MED2]."}
+{"style": 3, "text": "Hi, please send [MED1] tablet 15 nos and [MED2] syrup 200ml. Send total bill on GPay."}
+{"style": 3, "text": "Bhai [MED1] extra strength wala h ya normal? Need fast action for viral cold & body pain."}
+{"style": 4, "text": "Tab. [MED1] 500mg 1-0-1 x 5 days pc. Take after food. If fever persists >102F, add Syp. paracetamol 5ml SOS. Drink plenty of warm water and rest."}
+{"style": 4, "text": "Rx: 1. Tab [MED1] Plus (1-0-1) pc x 3 days. 2. Tab [MED2] (0-0-1) after dinner. Review after 5 days with S. Creatinine report."}
+{"style": 4, "text": "Syp. [MED1] 2 tsp t.i.d. for dry cough x 7 days. Avoid cold items and ice water."}
+{"style": 4, "text": "Tab. [MED1] 40mg 1-0-0 ac (empty stomach) x 14 days. Do not skip morning dose."}
+{"style": 4, "text": "Inj. [MED1] 1g IV stat. Follow up with Cap. [MED2] 1-0-1 pc for 7 days. Keep active and monitor BP daily."}
+{"style": 4, "text": "Tab [MED1] Fast 1-1-1 for acute knee pain x 3 days max. If stomach upset occurs, stop immediately."}
+{"style": 4, "text": "Tab. [MED1] 50mg 1-0-1 x 5d. Cap. [MED2] Care 0-0-1 x 5d. Check fast sugar levels on Monday."}
+{"style": 4, "text": "Syp [MED1] 5ml 1-1-1 pc for 5 days. Add paracetamol 650mg if pain worsens. Take rest."}
+{"style": 4, "text": "Tab. [MED1] 0-1-0 after lunch x 7 days. Note: expensive brand, generic amlodipine 5mg can be substituted by pharmacy if unavailable."}
+{"style": 4, "text": "Cap [MED1] 1-0-1 x 10d. Tab [MED2] Active 1-0-0 x 10d. Take with warm milk."}
+{"style": 4, "text": "Rx: Tab. [MED1] 650 1-0-1 SOS for fever/bodyache. Max 3 tabs/day."}
+{"style": 4, "text": "Tab [MED1] Life 1-0-0 before breakfast x 1 month. Monitor blood pressure weekly."}
+{"style": 4, "text": "Cap. [MED1] 250mg 1-1-1 x 5 days pc. Complete full course of antibiotics even if feeling better."}
+{"style": 4, "text": "Tab [MED1] 0-0-1 x 7 days. Syp [MED2] 5ml b.i.d x 5 days. Rest well, low sugar diet advised."}
+{"style": 4, "text": "Tab. [MED1] Plus 1-0-1 x 3d for severe headache. Drink fast fluid replenishment."}
+{"style": 4, "text": "Eye drops [MED1] 1 drop in right eye q.i.d. x 7 days. Do not rub eyes."}
+{"style": 4, "text": "Tab [MED1] 10mg 1-0-0 ac x 30 days. Tab [MED2] 0-0-1 pc x 30 days. Re-evaluate fasting blood sugar next visit."}
+{"style": 4, "text": "Cap. [MED1] 1-0-1 x 5 days. Drink 3L water daily. Watch for nausea or rash."}
+{"style": 4, "text": "Tab. [MED1] 500mg (1-0-1) x 7d. Tab [MED2] (0-1-0) x 7d. Take after meals to prevent gastric irritation."}
+{"style": 4, "text": "Syp [MED1] Care 5ml t.i.d. x 5 days for child. If high temp >101, paracetamol suppository SOS."}
+{"style": 4, "text": "Tab. [MED1] 0-0-1 x 14d. S/E: mild dry mouth, dizziness. Take at bedtime with water."}
+{"style": 4, "text": "Rx: 1) Cap [MED1] 1-0-1 pc x 5d. 2) Tab [MED2] 1-0-0 ac x 5d. Advise complete bed rest."}
+{"style": 4, "text": "Tab [MED1] Fast 1-0-1 x 3 days. Continue ibuprofen 400mg if severe pain persists."}
+{"style": 4, "text": "Tab. [MED1] 2.5mg 1-0-0 morning pc. Long term therapy. Check pharmacy for stock availability."}
+{"style": 4, "text": "Cap. [MED1] 1-0-1 x 7 days. Tab [MED2] 0-0-1 x 7 days. Maintain low sodium and low sugar intake."}
+{"style": 4, "text": "Ointment [MED1] apply local twice daily after bath x 10 days. Avoid sun exposure."}
+{"style": 4, "text": "Tab. [MED1] 650mg 1-1-1 pc SOS x 3d for pain. Cap [MED2] 1-0-1 ac x 5d."}
+{"style": 4, "text": "Syp [MED1] 10ml 1-0-1 pc x 5d. Avoid cold drinks, ice cream, fried items."}
+{"style": 4, "text": "Tab [MED1] Active 500mg 1-0-1 x 5 days. Repeat blood work if fever does not subside by day 3."}
+{"style": 4, "text": "Rx: Tab. [MED1] 0-0-1 x 10 days. Syp [MED2] Plus 1 tsp t.i.d. x 5 days. Take after meal."}
+{"style": 4, "text": "Cap. [MED1] 1-0-1 pc x 7 days. Note: take omeprazole 20mg ac if heartburn occurs."}
+{"style": 4, "text": "Tab. [MED1] 5mg 1-0-0 ac x 1 month. Monitor sugar profile. Life style changes essential."}
+{"style": 4, "text": "Tab [MED1] Care 1-1-1 pc x 3d, then 1-0-1 x 3d. Taper off as directed."}
+{"style": 4, "text": "Syp. [MED1] 5ml SOS for allergic cough. S/E slight sedation."}
+{"style": 4, "text": "Tab. [MED1] 1-0-1 x 5d. Tab [MED2] 0-0-1 x 5d. Drink fast fluids and eat light diet."}
+{"style": 4, "text": "Cap [MED1] 1-0-1 pc x 10 days. Review with urine R/E report in 1 week."}
+{"style": 5, "text": "You can take [MED1] with or without food, but taking it after meals helps reduce stomach upset. Make sure to rest and stay hydrated."}
+{"style": 5, "text": "Hello! [MED1] contains paracetamol as its active ingredient. If your fever persists, please consult a doctor."}
+{"style": 5, "text": "Is [MED1] available at your local pharmacy? Usually, [MED1] costs around $10 for a pack of twenty tablets."}
+{"style": 5, "text": "[MED1] is fast acting for head ache pain, but dont exceed 4 doses in 24 hours."}
+{"style": 5, "text": "Please avoid drinking alcohol while taking [MED1] as it can increase the risk of drowsiness and liver strain."}
+{"style": 5, "text": "Did you forget a dose of [MED1]? Take it as soon as you remember, unless it's almost time for [MED2]."}
+{"style": 5, "text": "Both [MED1] and [MED2] contain ibuprofen. Do not take them together to avoid an accidental overdose."}
+{"style": 5, "text": "[MED1] plus paracetamol works well for severe cold symptoms. Get plenty of rest!"}
+{"style": 5, "text": "Common side effects of [MED1] include mild nausea, dizziness, and dry mouth. Contact us if they worsen."}
+{"style": 5, "text": "Can I take [MED1] at bedtime? Yes, [MED1] can help with night time pain so you get good rest."}
+{"style": 5, "text": "Check your blood sugar regularly while using [MED1], especially if you are also taking metformin."}
+{"style": 5, "text": "Store [MED1] in a cool dry place away from direct sunlight and out of reach of children."}
+{"style": 5, "text": "Sorry, [MED1] is currently out of stock. You can ask your pharmacist for a generic option with the same active component."}
+{"style": 5, "text": "Take [MED1] twice daily. It gives fast care for active joint inflammation."}
+{"style": 5, "text": "Are you allergic to aspirin? If so, [MED1] might not be safe for you. Please check with your physician."}
+{"style": 5, "text": "pls take [MED1] with a full glass of water. active pain relief should start in 30 mins."}
+{"style": 5, "text": "If you experience a skin rash or difficulty breathing after taking [MED1], seek emergency care immediately."}
+{"style": 5, "text": "You can switch from [MED1] to [MED2], but make sure to wait at least 8 hours between doses."}
+{"style": 5, "text": "[MED1] extra fast relief works for mild fever, but watch out for elevated sugar levels."}
+{"style": 5, "text": "How much does [MED1] cost? The price varies by retailer, but generic paracetamol is often cheaper than [MED1]."}
+{"style": 5, "text": "Do not crush or chew [MED1] sustained-release tablets. Swallow them whole with water."}
+{"style": 5, "text": "Hi there! [MED1] is generally safe during pregnancy, but always consult your OB-GYN first."}
+{"style": 5, "text": "[MED1] is for short term use only. Don't use it for more than 5 days for pain."}
+{"style": 5, "text": "Taking [MED1] and [MED2] together might cause drowsiness. Avoid driving while on these medications."}
+{"style": 5, "text": "Make sure to take [MED1] in the morning because it might keep you awake if taken late."}
+{"style": 5, "text": "Is [MED1] over the counter? Yes, [MED1] is available without a prescription for everyday cold care."}
+{"style": 5, "text": "[MED1] helps lower high blood pressure. Keep living a healthy life style alongside medication."}
+{"style": 5, "text": "Drink extra water while taking [MED1] to protect your kidneys."}
+{"style": 5, "text": "For fast action, take [MED1] on an empty stomach 1 hour before eating."}
+{"style": 5, "text": "[MED1] bad side effects? Mostly just mild stomach ache. Take care!"}
+{"style": 5, "text": "If you miss a dose of [MED1], just skip it if your next dose is due soon. Never double up."}
+{"style": 5, "text": "Does [MED1] contain caffeine? Yes, [MED1] plus caffeine provides boosted relief for severe headaches."}
+{"style": 5, "text": "You can buy [MED1] online or at any drug store. Standard price is $15."}
+{"style": 5, "text": "Always check the active ingredients on [MED1] and [MED2] so you don't take double paracetamol."}
+{"style": 5, "text": "Need help with [MED1] dosage? For adults, take 1 tablet every 6 hours as needed for pain."}
+{"style": 5, "text": "Is [MED1] safe for children? No, [MED1] is formulated for adults only. Look for pediatric drops instead."}
+{"style": 5, "text": "[MED1] care tips: keep track of your doses to avoid liver toxicity."}
+{"style": 5, "text": "Applying [MED1] cream directly to the affected area provides fast relief for muscle ache."}
+{"style": 5, "text": "[MED1] is expired? Throw it away immediately. Expired med can lose potency or be harmful."}
+{"style": 5, "text": "Welcome back! How is your cough today? Remember to complete the full course of [MED1]."}
+{"style": 6, "text": "Doctor, is [MED1] safe for my 3-year-old? He has a high fever since morning."}
+{"style": 6, "text": "Can I give [MED1] along with [MED2] for fast relief from cold and cough?"}
+{"style": 6, "text": "Bache ko fever aur body pain hai. Kya [MED1] 5ml dedu ya [MED2] sahi rahega?"}
+{"style": 6, "text": "Hi pharmacy, do you have [MED1] drops in stock? Need it urgently for baby."}
+{"style": 6, "text": "Is 2.5ml of [MED1] syrup okay for a 6 month old infant?"}
+{"style": 6, "text": "How much [MED1] should I give my 5 year old for severe tooth pain?"}
+{"style": 6, "text": "Doctor suggested [MED1] plus rest, but fever isn't coming down. Can I switch to [MED2]?"}
+{"style": 6, "text": "Bhaiya [MED1] syrup ka price kya hai? Expiry date check karke dena please."}
+{"style": 6, "text": "My daughter vomited after taking [MED1]. Should I repeat the dose?"}
+{"style": 6, "text": "Kya [MED1] lene se bacche ko neend aati hai? He seems very active otherwise."}
+{"style": 6, "text": "Is [MED1] paracetamol or ibuprofen? Need to know before giving to my son."}
+{"style": 6, "text": "Can I give [MED1] on an empty stomach or only after food?"}
+{"style": 6, "text": "Bache ko sugar free [MED1] syrup chahiye, doctor. Do you have that available?"}
+{"style": 6, "text": "[MED1] drop ki kitni boond deni hai 4 mahine ke baby ko?"}
+{"style": 6, "text": "Gave [MED1] two hours ago, still 102 fever. Can I give [MED2] now?"}
+{"style": 6, "text": "Is there any generic alternative to [MED1]? It is quite expensive."}
+{"style": 6, "text": "Beta 2 saal ka hai, cold care ke liye [MED1] kitna ml dena padega?"}
+{"style": 6, "text": "Doctor, my baby got mild skin rash after taking [MED1]. Should I stop it immediately?"}
+{"style": 6, "text": "Is [MED1] suitable for stomach pain and loose motions?"}
+{"style": 6, "text": "Plz tell dosage for [MED1] syrup for 12kg child weight."}
+{"style": 6, "text": "Kya [MED1] lene se pet me pain ho sakta hai? Baby is crying continuous."}
+{"style": 6, "text": "Can I mix [MED1] syrup with fruit juice? My kid refuses to swallow medicine."}
+{"style": 6, "text": "[MED1] syrup ka dose din me kitni baar dena hai? 2 times or 3 times?"}
+{"style": 6, "text": "Is [MED1] safe for daily use during winter for immunity and life care?"}
+{"style": 6, "text": "Does [MED1] contain alcohol or antihistamine? Need fast reply."}
+{"style": 6, "text": "[MED1] syrup open karne ke baad kitne din tak use kar sakte hain?"}
+{"style": 6, "text": "Accidentally gave double dose of [MED1] to my 4 year old. What to do? Urgent!"}
+{"style": 6, "text": "Doctor recommended [MED1] for runny nose, but chemist gave [MED2]. Are both same?"}
+{"style": 6, "text": "Bacche ke kaan me pain hai. Kya [MED1] drops drop kar sakte hain?"}
+{"style": 6, "text": "How many hours gap needed between two doses of [MED1]?"}
+{"style": 6, "text": "[MED1] plus [MED2] dono ek saath de sakte hain kya night me?"}
+{"style": 6, "text": "My kid has cough and active wheezing. Will [MED1] help or need inhaler?"}
+{"style": 6, "text": "Do you have [MED1] 120mg/5ml suspension in stock today?"}
+{"style": 6, "text": "Bacche ko [MED1] se allergy to nahi hogi? He is allergic to dust."}
+{"style": 6, "text": "How to measure 1.5ml of [MED1] drops? Dropper cap is missing."}
+{"style": 6, "text": "Is [MED1] pain reliever safe for 8 year old before going to school?"}
+{"style": 6, "text": "Chemist said [MED1] is out of stock. Can I use [MED2] for baby fever?"}
+{"style": 6, "text": "[MED1] syrup expiry date next month ki hai, kya bacche ko de sakte hain?"}

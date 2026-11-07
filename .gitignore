@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.egg-info/
+build/
+pipeline/ctx_*.npz
+tests/parity/node_modules/
+tests/parity/package-lock.json

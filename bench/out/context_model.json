@@ -1,0 +1,38 @@
+{
+ "threshold": 0.8699999999999999,
+ "test": {
+  "precision": 0.9669074807737125,
+  "recall": 0.9524793388429752,
+  "f1": 0.9596391812189199,
+  "ap": 0.9886742042989677,
+  "n": 137312,
+  "positives": 4356
+ },
+ "by_source": {
+  "hardneg": {
+   "n": 45,
+   "false_positive_rate": 0.0,
+   "recall": null
+  },
+  "template": {
+   "n": 26926,
+   "false_positive_rate": 0.0057598582188746125,
+   "recall": 0.9524793388429752
+  },
+  "wiki_en": {
+   "n": 53361,
+   "false_positive_rate": 0.00014992222784430577,
+   "recall": null
+  },
+  "wiki_hi": {
+   "n": 56980,
+   "false_positive_rate": 7.02000702000702e-05,
+   "recall": null
+  }
+ },
+ "dictionary_only": {
+  "precision": 0.031723376363515854,
+  "recall": 1.0,
+  "f1": 0.06149589642882347
+ }
+}

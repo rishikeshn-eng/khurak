@@ -1,0 +1,12 @@
+{
+ "total": 253973,
+ "repaired": 1628,
+ "two_listed_unrepaired": 105954,
+ "single": 141807,
+ "unique_brands": 135216,
+ "unique_ingredients": 1722,
+ "sources": {
+  "az": "junioralive/Indian-Medicine-Dataset (MIT) - A-Z Medicine Dataset of India, 253,973 products",
+  "full": "dmedhi/indian-medicines (1mg, 11,825 products) + A-Z salt_composition column"
+ }
+}

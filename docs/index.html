@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>khurak: does your health chatbot know what Dolo 650 is?</title>
+<meta name="description" content="Indian medicines are sold by brand name. Health chatbots trained on US data don't know them, so they miss double-paracetamol and dangerous combinations. khurak benchmarks 8 LLMs on 254k Indian brands and ships a guard (trained context model + safety rules) that runs in your browser.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap row">
+    <a class="logo" href="#"><span class="cross"></span>khurak <span class="hi">खुराक</span></a>
+    <nav><a href="#check">Check</a><a href="#bench">Benchmark</a><a href="#data">The data problem</a><a href="#how">How it works</a><a href="https://github.com/rishikeshn-eng/khurak">GitHub ↗</a></nav>
+  </div>
+</header>
+
+<section class="hero wrap">
+  <div class="eyebrow">AI safety · Indian healthcare</div>
+  <h1>Ask an AI what's in <em>Dolo 650</em>.<br>One answered <span class="wrongword">“Guggul Hilum”</span>.</h1>
+  <p class="lede">Indians buy medicine by brand: <b>Dolo</b>, <b>Crocin</b>, <b>Combiflam</b>, <b>Sinarest</b>. Most of them hide the same drug:
+    paracetamol. A health chatbot that doesn't know Indian brands can't notice when someone is about to double their dose.
+    We measured how often models get this wrong, and built a guard that catches it.</p>
+  <div class="slips" id="slips"></div>
+  <div class="kpis" id="kpis"></div>
+</section>
+
+<section id="check" class="wrap sec">
+  <div class="sec-head"><div class="eyebrow">Live guard · 254k brands · runs in your browser</div>
+    <h2>Paste a question, a prescription or a chatbot's reply.</h2></div>
+  <div class="tool">
+    <div class="left">
+      <textarea id="input" spellcheck="false" placeholder="e.g. I took Dolo 650 this morning, can I take Sinarest for my cold?"></textarea>
+      <div class="chips" id="examples"></div>
+      <label class="toggle"><input type="checkbox" id="showRejected" checked> show words a dictionary would wrongly flag</label>
+      <div class="status" id="status">loading 254k medicines + context model…</div>
+    </div>
+    <div class="right">
+      <div id="verdict" class="verdict"></div>
+      <div class="annot" id="annot"></div>
+      <div id="findings"></div>
+      <div id="meds" class="meds"></div>
+    </div>
+  </div>
+  <div class="lookup"><input id="lk" placeholder="Look up any Indian brand: Calpol, Montair, Zerodol…" autocomplete="off"><div id="lkOut"></div></div>
+</section>
+
+<section id="bench" class="wrap sec">
+  <div class="sec-head"><div class="eyebrow">Benchmark</div><h2>How well do language models know Indian medicines?</h2>
+    <p class="note" id="benchNote"></p></div>
+  <div class="grid3" id="benchCards"></div>
+  <h3>Household brands: does the model know what's inside? <span class="note">(hover a cell for the model's exact answer)</span></h3>
+  <div id="famous"></div>
+  <h3>Every model, every task</h3>
+  <div id="benchTable"></div>
+  <div class="quotes" id="quotes"></div>
+</section>
+
+<section id="data" class="wrap sec">
+  <div class="sec-head"><div class="eyebrow">Finding</div><h2>The open data has a hole in it.</h2></div>
+  <div class="split">
+    <div>
+      <p>The largest open list of Indian medicines (253,973 products, MIT-licensed, the usual source for RAG health bots) stores only the
+      <b>first two ingredients</b> of every product. Cross-checking against full compositions shows that a quarter of its two-ingredient listings
+      are really three or more. The missing one is often the paracetamol in a cold remedy.</p>
+      <p>khurak repairs what it can from full sources and <b>flags the rest</b> instead of silently trusting them.</p>
+    </div>
+    <div id="truncViz"></div>
+  </div>
+  <h3>Why a dictionary isn't enough</h3>
+  <div class="split">
+    <div><p>With 135,000 brand names, almost every word is a medicine somewhere: <span class="mono">Cold</span>, <span class="mono">Rest</span>,
+      <span class="mono">Pan</span>, <span class="mono">Life</span>, even <span class="mono">And</span> (an ondansetron injection).
+      <b id="collide"></b> of ordinary English word tokens match an Indian brand. khurak's small trained context model reads the surrounding
+      words and decides whether a match is really a medicine.</p></div>
+    <div id="ctxViz"></div>
+  </div>
+</section>
+
+<section id="how" class="wrap sec">
+  <div class="sec-head"><div class="eyebrow">Under the hood</div><h2>How khurak checks a message</h2></div>
+  <ol class="steps">
+    <li><b>Find candidates</b> in English, Hinglish or Devanagari: exact brand, typo, phonetic match (<span class="mono">कॉम्बिफ्लेम → Combiflam</span>), or glued to a strength (<span class="mono">dolo650</span>).</li>
+    <li><b>Read the context.</b> A 100k-parameter char-CNN + BiGRU decides, from ±10 surrounding words, whether the match is a medicine.</li>
+    <li><b>Resolve the variant.</b> “Sinarest New tablet” vs “Sinarest New nasal spray”; “Dolo 650” vs “Dolo 250 syrup”.</li>
+    <li><b>Check safety</b>: same active ingredient twice, two drugs of one class (two NSAIDs), a short list of well-established dangerous combinations, daily totals above adult maxima, India's nimesulide ban for children, discontinued or incomplete data.</li>
+  </ol>
+  <pre class="code">pip install -e .
+khurak "Took Dolo 650 1-1-1-1, can I add Sinarest New thrice daily?"
+khurak --lookup Combiflam
+echo "$CHATBOT_REPLY" | khurak -        # exit 0 ok · 1 caution · 2 danger</pre>
+</section>
+
+<footer class="wrap">
+  <p><b>Not medical advice.</b> khurak flags combinations for a pharmacist or doctor to review. Dose limits are approximate adult maxima;
+  compositions come from open datasets that can be outdated or incomplete.</p>
+  <p>Data: A–Z Medicine Dataset of India (MIT), 1mg subset, Eka Care Indian Drug MCQA (MIT). Built by Rishikesh · MIT licensed ·
+  <a href="https://github.com/rishikeshn-eng/khurak">source &amp; benchmarks</a></p>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.20.1/dist/ort.min.js"></script>
+<script src="khurak.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

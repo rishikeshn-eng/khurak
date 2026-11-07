@@ -1,0 +1,1221 @@
+{
+ "eka_lookup": {
+  "questions": 1512,
+  "covered": 324,
+  "coverage": 0.21428571428571427,
+  "brands_covered": null,
+  "accuracy_on_covered": 0.6604938271604939,
+  "covered_ids": [
+   "mcqa-Q002",
+   "mcqa-Q003",
+   "mcqa-Q004",
+   "mcqa-Q006",
+   "mcqa-Q008",
+   "mcqa-Q010",
+   "mcqa-Q016",
+   "mcqa-Q017",
+   "mcqa-Q021",
+   "mcqa-Q025",
+   "mcqa-Q032",
+   "mcqa-Q052",
+   "mcqa-Q057",
+   "mcqa-Q060",
+   "mcqa-Q068",
+   "mcqa-Q070",
+   "mcqa-Q075",
+   "mcqa-Q078",
+   "mcqa-Q085",
+   "mcqa-Q087",
+   "mcqa-Q098",
+   "mcqa-Q099",
+   "mcqa-Q107",
+   "mcqa-Q108",
+   "mcqa-Q109",
+   "mcqa-Q111",
+   "mcqa-Q113",
+   "mcqa-Q117",
+   "mcqa-Q123",
+   "mcqa-Q127",
+   "mcqa-Q129",
+   "mcqa-Q134",
+   "mcqa-Q135",
+   "mcqa-Q136",
+   "mcqa-Q141",
+   "mcqa-Q154",
+   "mcqa-Q158",
+   "mcqa-Q168",
+   "mcqa-Q175",
+   "mcqa-Q177",
+   "mcqa-Q187",
+   "mcqa-Q193",
+   "mcqa-Q202",
+   "mcqa-Q204",
+   "mcqa-Q213",
+   "mcqa-Q215",
+   "mcqa-Q216",
+   "mcqa-Q218",
+   "mcqa-Q221",
+   "mcqa-Q229",
+   "mcqa-Q230",
+   "mcqa-Q233",
+   "mcqa-Q235",
+   "mcqa-Q236",
+   "mcqa-Q237",
+   "mcqa-Q238",
+   "mcqa-Q239",
+   "mcqa-Q246",
+   "mcqa-Q255",
+   "mcqa-Q261",
+   "mcqa-Q262",
+   "mcqa-Q277",
+   "mcqa-Q281",
+   "mcqa-Q295",
+   "mcqa-Q300",
+   "mcqa-Q306",
+   "mcqa-Q307",
+   "mcqa-Q316",
+   "mcqa-Q319",
+   "mcqa-Q329",
+   "mcqa-Q331",
+   "mcqa-Q344",
+   "mcqa-Q348",
+   "mcqa-Q350",
+   "mcqa-Q360",
+   "mcqa-Q361",
+   "mcqa-Q363",
+   "mcqa-Q365",
+   "mcqa-Q371",
+   "mcqa-Q379",
+   "mcqa-Q382",
+   "mcqa-Q384",
+   "mcqa-Q385",
+   "mcqa-Q389",
+   "mcqa-Q390",
+   "mcqa-Q405",
+   "mcqa-Q410",
+   "mcqa-Q415",
+   "mcqa-Q421",
+   "mcqa-Q425",
+   "mcqa-Q429",
+   "mcqa-Q433",
+   "mcqa-Q435",
+   "mcqa-Q437",
+   "mcqa-Q441",
+   "mcqa-Q443",
+   "mcqa-Q444",
+   "mcqa-Q447",
+   "mcqa-Q448",
+   "mcqa-Q452",
+   "mcqa-Q456",
+   "mcqa-Q458",
+   "mcqa-Q460",
+   "mcqa-Q461",
+   "mcqa-Q466",
+   "mcqa-Q472",
+   "mcqa-Q473",
+   "mcqa-Q480",
+   "mcqa-Q491",
+   "mcqa-Q505",
+   "mcqa-Q514",
+   "mcqa-Q518",
+   "mcqa-Q522",
+   "mcqa-Q523",
+   "mcqa-Q524",
+   "mcqa-Q525",
+   "mcqa-Q538",
+   "mcqa-Q545",
+   "mcqa-Q548",
+   "mcqa-Q549",
+   "mcqa-Q553",
+   "mcqa-Q570",
+   "mcqa-Q571",
+   "mcqa-Q573",
+   "mcqa-Q594",
+   "mcqa-Q598",
+   "mcqa-Q599",
+   "mcqa-Q608",
+   "mcqa-Q609",
+   "mcqa-Q614",
+   "mcqa-Q619",
+   "mcqa-Q621",
+   "mcqa-Q624",
+   "mcqa-Q630",
+   "mcqa-Q633",
+   "mcqa-Q638",
+   "mcqa-Q639",
+   "mcqa-Q648",
+   "mcqa-Q653",
+   "mcqa-Q0658",
+   "mcqa-Q0659",
+   "mcqa-Q0661",
+   "mcqa-Q0666",
+   "mcqa-Q0668",
+   "mcqa-Q0674",
+   "mcqa-Q0675",
+   "mcqa-Q0681",
+   "mcqa-Q0686",
+   "mcqa-Q0689",
+   "mcqa-Q0692",
+   "mcqa-Q0696",
+   "mcqa-Q0700",
+   "mcqa-Q0710",
+   "mcqa-Q0718",
+   "mcqa-Q0724",
+   "mcqa-Q0735",
+   "mcqa-Q0742",
+   "mcqa-Q0745",
+   "mcqa-Q0746",
+   "mcqa-Q0748",
+   "mcqa-Q0749",
+   "mcqa-Q0754",
+   "mcqa-Q0777",
+   "mcqa-Q0782",
+   "mcqa-Q0783",
+   "mcqa-Q0788",
+   "mcqa-Q0792",
+   "mcqa-Q0793",
+   "mcqa-Q0803",
+   "mcqa-Q0805",
+   "mcqa-Q0813",
+   "mcqa-Q0817",
+   "mcqa-Q0818",
+   "mcqa-Q0819",
+   "mcqa-Q0827",
+   "mcqa-Q0829",
+   "mcqa-Q0835",
+   "mcqa-Q0841",
+   "mcqa-Q0843",
+   "mcqa-Q0847",
+   "mcqa-Q0848",
+   "mcqa-Q0851",
+   "mcqa-Q0857",
+   "mcqa-Q0866",
+   "mcqa-Q0868",
+   "mcqa-Q0872",
+   "mcqa-Q0874",
+   "mcqa-Q0885",
+   "mcqa-Q0887",
+   "mcqa-Q0890",
+   "mcqa-Q0891",
+   "mcqa-Q0892",
+   "mcqa-Q0894",
+   "mcqa-Q0898",
+   "mcqa-Q0903",
+   "mcqa-Q0907",
+   "mcqa-Q0908",
+   "mcqa-Q0915",
+   "mcqa-Q0925",
+   "mcqa-Q0937",
+   "mcqa-Q0951",
+   "mcqa-Q0956",
+   "mcqa-Q0962",
+   "mcqa-Q0970",
+   "mcqa-Q0972",
+   "mcqa-Q0983",
+   "mcqa-Q0984",
+   "mcqa-Q0992",
+   "mcqa-Q0993",
+   "mcqa-Q0996",
+   "mcqa-Q0997",
+   "mcqa-Q1000",
+   "mcqa-Q1008",
+   "mcqa-Q1010",
+   "mcqa-Q1014",
+   "mcqa-Q1017",
+   "mcqa-Q1022",
+   "mcqa-Q1023",
+   "mcqa-Q1025",
+   "mcqa-Q1026",
+   "mcqa-Q1029",
+   "mcqa-Q1034",
+   "mcqa-Q1037",
+   "mcqa-Q1038",
+   "mcqa-Q1040",
+   "mcqa-Q1043",
+   "mcqa-Q1046",
+   "mcqa-Q1047",
+   "mcqa-Q1058",
+   "mcqa-Q1064",
+   "mcqa-Q1065",
+   "mcqa-Q1069",
+   "mcqa-Q1073",
+   "mcqa-Q1081",
+   "mcqa-Q1089",
+   "mcqa-Q1093",
+   "mcqa-Q1094",
+   "mcqa-Q1096",
+   "mcqa-Q1097",
+   "mcqa-Q1102",
+   "mcqa-Q1105",
+   "mcqa-Q1115",
+   "mcqa-Q1124",
+   "mcqa-Q1132",
+   "mcqa-Q1138",
+   "mcqa-Q1139",
+   "mcqa-Q1140",
+   "mcqa-Q1143",
+   "mcqa-Q1149",
+   "mcqa-Q1150",
+   "mcqa-Q1151",
+   "mcqa-Q1157",
+   "mcqa-Q1159",
+   "mcqa-Q1166",
+   "mcqa-Q1176",
+   "mcqa-Q1178",
+   "mcqa-Q1180",
+   "mcqa-Q1181",
+   "mcqa-Q1185",
+   "mcqa-Q1188",
+   "mcqa-Q1190",
+   "mcqa-Q1191",
+   "mcqa-Q1192",
+   "mcqa-Q1193",
+   "mcqa-Q1212",
+   "mcqa-Q1214",
+   "mcqa-Q1222",
+   "mcqa-Q1225",
+   "mcqa-Q1244",
+   "mcqa-Q1246",
+   "mcqa-Q1248",
+   "mcqa-Q1250",
+   "mcqa-Q1255",
+   "mcqa-Q1256",
+   "mcqa-Q1258",
+   "mcqa-Q1259",
+   "mcqa-Q1265",
+   "mcqa-Q1268",
+   "mcqa-Q1281",
+   "mcqa-Q1283",
+   "mcqa-Q1285",
+   "mcqa-Q1286",
+   "mcqa-Q1287",
+   "mcqa-Q1289",
+   "mcqa-Q1290",
+   "mcqa-Q1293",
+   "mcqa-Q1301",
+   "mcqa-Q1311",
+   "mcqa-Q1321",
+   "mcqa-Q1341",
+   "mcqa-Q1348",
+   "mcqa-Q1349",
+   "mcqa-Q1351",
+   "mcqa-Q1354",
+   "mcqa-Q1359",
+   "mcqa-Q1373",
+   "mcqa-Q1377",
+   "mcqa-Q1392",
+   "mcqa-Q1393",
+   "mcqa-Q1401",
+   "mcqa-Q1402",
+   "mcqa-Q1405",
+   "mcqa-Q1408",
+   "mcqa-Q1412",
+   "mcqa-Q1418",
+   "mcqa-Q1426",
+   "mcqa-Q1427",
+   "mcqa-Q1428",
+   "mcqa-Q1448",
+   "mcqa-Q1450",
+   "mcqa-Q1451",
+   "mcqa-Q1464",
+   "mcqa-Q1471",
+   "mcqa-Q1477",
+   "mcqa-Q1482",
+   "mcqa-Q1486",
+   "mcqa-Q1490",
+   "mcqa-Q1493",
+   "mcqa-Q1495",
+   "mcqa-Q1496",
+   "mcqa-Q1501",
+   "mcqa-Q1502",
+   "mcqa-Q1503",
+   "mcqa-Q1508"
+  ]
+ },
+ "eka_with_model": {
+  "n": 1512,
+  "accuracy": 0.18055555555555555,
+  "brand_found": 0.31746031746031744,
+  "composition_match": 0.15873015873015872,
+  "spurious_brands_per_question": 0.08267195767195767,
+  "errors": [
+   {
+    "q": "Q003",
+    "brand": "Rapeed 20mg Injection",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "rabeprazole"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q004",
+    "brand": "Liv Joint Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ascorbic acid",
+     "boswellic acid",
+     "chondroitin",
+     "collagen peptide type ii",
+     "glucosamine",
+     "hyaluronate",
+     "rosehip extract"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q005",
+    "brand": "Iseren Vaginal Gel",
+    "found": true,
+    "pred": [
+     "serratiopeptidase"
+    ],
+    "gold": [
+     "glycine max"
+    ],
+    "answer": "A",
+    "correct": "C"
+   },
+   {
+    "q": "Q007",
+    "brand": "Glipcrin MP-500 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "metformin",
+     "piioglitazone",
+     "sitagliptin"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q008",
+    "brand": "Torkid 5Mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "torasemide"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q009",
+    "brand": "Recharj Active Softgel Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "antioxidant",
+     "multimineral",
+     "multivitamin"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q010",
+    "brand": "Alkacitral Ice Cream Flavour Syrup",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "hydrogen"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q011",
+    "brand": "Empadoz 10mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "empagliflozin"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q013",
+    "brand": "Zykaflam 650 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "paracetamol"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q014",
+    "brand": "Aritep 5 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "aripiprazole"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q015",
+    "brand": "Dutabloc 0.5mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dutasteride"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q017",
+    "brand": "Cleno S Nasal Solution",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "sodium chloride"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q018",
+    "brand": "Trimzole-Ds Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "sulfamethoxazole",
+     "trimethoprim"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q019",
+    "brand": "Hidocort Cream",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "hydrocortisone"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q020",
+    "brand": "Rutofer 60K Softgel Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "vitamin d3"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q021",
+    "brand": "Costrum Forte Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "alpha lipoic acid",
+     "benfotiamine",
+     "chromium polynicotinate",
+     "folic acid",
+     "inositol",
+     "methylcobalamin",
+     "selenium dioxide"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q022",
+    "brand": "Xtradol-TH Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dexketoprofen",
+     "thiocolchicoside"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q023",
+    "brand": "Vitz Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "antioxidants",
+     "multiminerals",
+     "multivitamins"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q024",
+    "brand": "Adinofol Injection",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "folic acid",
+     "methylcobalamin",
+     "nicotinamide"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q027",
+    "brand": "Parotime-CR 12.5 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "paroxetine"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q028",
+    "brand": "Desomac 5 Tablet",
+    "found": true,
+    "pred": [
+     "esomeprazole"
+    ],
+    "gold": [
+     "desloratadine"
+    ],
+    "answer": "C",
+    "correct": "E"
+   },
+   {
+    "q": "Q029",
+    "brand": "TrueBasics 100% Vegetarian Omega-3 Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dha",
+     "omega-3"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q030",
+    "brand": "Ibuvis Suspension",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ibuprofen",
+     "paracetamol"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q031",
+    "brand": "Ezen 5 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "escitalopram oxalate"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q033",
+    "brand": "Linaglip-M 2.5mg/850mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "linagliptin",
+     "metformin"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q034",
+    "brand": "Ranzolin-500 ER Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ranolazine"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q035",
+    "brand": "Winkast-AZ Nasal Spray",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "azelastine",
+     "fluticasone"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q036",
+    "brand": "Glicorn-M2 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "glimepiride",
+     "metformin"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q037",
+    "brand": "Forstamin Gold Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "alpha lipoic acid",
+     "ashwagandha extract",
+     "ginkoba biloba extract",
+     "grape seed extract",
+     "korean ginseng extract",
+     "lycopene 10",
+     "methylcobalamin",
+     "safed musli extract",
+     "shilajit extract"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q038",
+    "brand": "Remium A 75mg/10mg Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "acetylsalicylic acid",
+     "rosuvastatin"
+    ],
+    "answer": null,
+    "correct": "A"
+   }
+  ]
+ },
+ "dup_with_model": {
+  "dup_caught": 0.965,
+  "n_dup": 200,
+  "ctl_false_alarm": 0.0,
+  "n_ctl": 60,
+  "misses": [
+   {
+    "q": "My doctor gave me Aceloflam Plus Tablet for fever. Is it okay to take PA 650mg Tablet along with it for back pain? Please answer briefly.",
+    "shared": [
+     "paracetamol"
+    ],
+    "items": [
+     [
+      "Aceloflam",
+      "Aceloflam Plus Tablet"
+     ]
+    ]
+   },
+   {
+    "q": "Already had one Etrik P Tablet for a cold two hours ago. Should I take New Hatric 3 Tablet now for back pain? Please answer briefly.",
+    "shared": [
+     "paracetamol"
+    ],
+    "items": [
+     [
+      "Etrik",
+      "Etrik P Tablet"
+     ],
+     [
+      "New",
+      "New Tixylix Syrup"
+     ],
+     [
+      "Hatric",
+      "Hatric 3 Suspension"
+     ]
+    ]
+   },
+   {
+    "q": "Already had one Hatric 3 Drops for body ache two hours ago. Should I take P 125 Drops now for a headache? Please answer briefly.",
+    "shared": [
+     "paracetamol"
+    ],
+    "items": [
+     [
+      "Hatric",
+      "Hatric 3 Suspension"
+     ]
+    ]
+   },
+   {
+    "q": "I took Maxtra Cold Plus Tablet this morning for joint pain. Can I also take Dolo 156.25mg Suspension today for fever? Please answer briefly.",
+    "shared": [
+     "paracetamol"
+    ],
+    "items": [
+     [
+      "Maxtra",
+      "Maxtra Cold Plus Tablet"
+     ],
+     [
+      "Dolo",
+      "Dolo 650 Tablet"
+     ]
+    ]
+   },
+   {
+    "q": "My doctor gave me P 500 Tablet for fever. Is it okay to take Cyclopam Plus Tablet along with it for my cold and blocked nose? Please answer briefly.",
+    "shared": [
+     "paracetamol"
+    ],
+    "items": [
+     [
+      "Cyclopam",
+      "Cyclopam Plus Tablet"
+     ]
+    ]
+   },
+   {
+    "q": "Mujhe headache ke liye Andre I-Kul Eye Drop li hai. Kya main body pain ke liye Toff DC Tablet bhi le sakta hoon? Please answer briefly.",
+    "shared": [
+     "phenylephrine"
+    ],
+    "items": [
+     [
+      "Andre",
+      "Andre Plus Eye Drops"
+     ],
+     [
+      "I-Kul",
+      "V-Kul Sterile Eye Drops"
+     ],
+     [
+      "Eye",
+      "Eye Word 0.5% Eye Drop"
+     ],
+     [
+      "Toff",
+      "Toff DC Tablet"
+     ]
+    ]
+   },
+   {
+    "q": "My doctor gave me PP Set DSR Capsule for a headache. Is it okay to take Anleo-DSR Capsule along with it for my cold and blocked nose? Please answer briefly.",
+    "shared": [
+     "domperidone",
+     "pantoprazole"
+    ],
+    "items": [
+     [
+      "Set",
+      "Set 5mg Tablet"
+     ],
+     [
+      "Anleo-DSR",
+      "Anleo-DSR Capsule"
+     ]
+    ]
+   }
+  ]
+ },
+ "eka_dictionary_only": {
+  "n": 1512,
+  "accuracy": 0.2824074074074074,
+  "brand_found": 0.49867724867724866,
+  "composition_match": 0.24074074074074073,
+  "spurious_brands_per_question": 2.9728835978835977,
+  "errors": [
+   {
+    "q": "Q004",
+    "brand": "Liv Joint Tablet",
+    "found": true,
+    "pred": [
+     "levocetirizine"
+    ],
+    "gold": [
+     "ascorbic acid",
+     "boswellic acid",
+     "chondroitin",
+     "collagen peptide type ii",
+     "glucosamine",
+     "hyaluronate",
+     "rosehip extract"
+    ],
+    "answer": "A",
+    "correct": "B"
+   },
+   {
+    "q": "Q005",
+    "brand": "Iseren Vaginal Gel",
+    "found": true,
+    "pred": [
+     "serratiopeptidase"
+    ],
+    "gold": [
+     "glycine max"
+    ],
+    "answer": "A",
+    "correct": "C"
+   },
+   {
+    "q": "Q007",
+    "brand": "Glipcrin MP-500 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "metformin",
+     "piioglitazone",
+     "sitagliptin"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q009",
+    "brand": "Recharj Active Softgel Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "antioxidant",
+     "multimineral",
+     "multivitamin"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q011",
+    "brand": "Empadoz 10mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "empagliflozin"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q013",
+    "brand": "Zykaflam 650 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "paracetamol"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q015",
+    "brand": "Dutabloc 0.5mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dutasteride"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q018",
+    "brand": "Trimzole-Ds Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "sulfamethoxazole",
+     "trimethoprim"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q020",
+    "brand": "Rutofer 60K Softgel Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "vitamin d3"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q022",
+    "brand": "Xtradol-TH Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dexketoprofen",
+     "thiocolchicoside"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q023",
+    "brand": "Vitz Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "antioxidants",
+     "multiminerals",
+     "multivitamins"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q024",
+    "brand": "Adinofol Injection",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "folic acid",
+     "methylcobalamin",
+     "nicotinamide"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q027",
+    "brand": "Parotime-CR 12.5 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "paroxetine"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q028",
+    "brand": "Desomac 5 Tablet",
+    "found": true,
+    "pred": [
+     "esomeprazole"
+    ],
+    "gold": [
+     "desloratadine"
+    ],
+    "answer": "C",
+    "correct": "E"
+   },
+   {
+    "q": "Q029",
+    "brand": "TrueBasics 100% Vegetarian Omega-3 Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dha",
+     "omega-3"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q030",
+    "brand": "Ibuvis Suspension",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ibuprofen",
+     "paracetamol"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q031",
+    "brand": "Ezen 5 Tablet",
+    "found": true,
+    "pred": [
+     "albumin"
+    ],
+    "gold": [
+     "escitalopram oxalate"
+    ],
+    "answer": "C",
+    "correct": "D"
+   },
+   {
+    "q": "Q033",
+    "brand": "Linaglip-M 2.5mg/850mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "linagliptin",
+     "metformin"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q034",
+    "brand": "Ranzolin-500 ER Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ranolazine"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q035",
+    "brand": "Winkast-AZ Nasal Spray",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "azelastine",
+     "fluticasone"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q036",
+    "brand": "Glicorn-M2 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "glimepiride",
+     "metformin"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q037",
+    "brand": "Forstamin Gold Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "alpha lipoic acid",
+     "ashwagandha extract",
+     "ginkoba biloba extract",
+     "grape seed extract",
+     "korean ginseng extract",
+     "lycopene 10",
+     "methylcobalamin",
+     "safed musli extract",
+     "shilajit extract"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q038",
+    "brand": "Remium A 75mg/10mg Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "acetylsalicylic acid",
+     "rosuvastatin"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q039",
+    "brand": "Bilnit-M Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "bilastine",
+     "montelukast"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q040",
+    "brand": "Hemroni-XT Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "ferrous ascorbate",
+     "folic acid",
+     "zinc"
+    ],
+    "answer": null,
+    "correct": "C"
+   },
+   {
+    "q": "Q041",
+    "brand": "Yulift D3 60k Capsule",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "cholecalciferol 60000 iu"
+    ],
+    "answer": null,
+    "correct": "A"
+   },
+   {
+    "q": "Q042",
+    "brand": "Sigadax M 50mg/1000mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "metformin",
+     "sitagliptin"
+    ],
+    "answer": null,
+    "correct": "B"
+   },
+   {
+    "q": "Q043",
+    "brand": "Calarc Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "calcium citrate",
+     "magnesium hydroxide",
+     "vitamin d3",
+     "zinc"
+    ],
+    "answer": null,
+    "correct": "E"
+   },
+   {
+    "q": "Q044",
+    "brand": "Sulidapa SM 10mg/500mg/100mg Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "dapagliflozin",
+     "metformin",
+     "sitagliptin"
+    ],
+    "answer": null,
+    "correct": "D"
+   },
+   {
+    "q": "Q045",
+    "brand": "Rosambi 10 Tablet",
+    "found": false,
+    "pred": [],
+    "gold": [
+     "rosuvastatin"
+    ],
+    "answer": null,
+    "correct": "D"
+   }
+  ]
+ }
+}
